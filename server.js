@@ -4,7 +4,7 @@ const express = require("express");
 const cors = require("cors");
 const database = require("./src/storage/database");
 const { fetchAnimeVerseData } = require("./src/services/animeverse");
-const { importAnimeVerse } = require("./src/services/importer");
+const scheduler = require("./src/services/scheduler");
 
 const app = express();
 
@@ -238,9 +238,21 @@ app.get("/api/anime/:id", (req, res) => {
   });
 });
 
+app.get("/api/sync/status", (req, res) => {
+  res.json({
+    status: true,
+    scheduler: scheduler.getStatus()
+  });
+});
+
 app.post("/api/sync/import", async (req, res) => {
   try {
-    const result = await importAnimeVerse();
+    const result = await scheduler.runSync();
+
+    if (result.status === false) {
+      return res.status(409).json(result);
+    }
+
     res.json({
       status: true,
       message: "AnimeVerse import completed",
@@ -298,4 +310,6 @@ app.listen(PORT, () => {
   console.log("Database:", database.DB_FILE);
   console.log("Source: AnimeVerse");
   console.log("================================");
+
+  scheduler.start();
 });

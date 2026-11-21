@@ -265,6 +265,18 @@ function normalizeEpisodes(
 async function importAnimeVerse() {
   const source = await fetchAnimeVerseData();
 
+  const hasSourceData = Object.values(source || {}).some(value => {
+    if (Array.isArray(value)) return value.length > 0;
+    if (value && typeof value === "object") {
+      return Object.keys(value).length > 0;
+    }
+    return false;
+  });
+
+  if (!hasSourceData) {
+    throw new Error("AnimeVerse source returned empty data; database was not modified");
+  }
+
   const baseAnime = normalizeAnimeCatalog(source.anime);
   const movies = normalizeLatestCatalog(source.all_anime);
 

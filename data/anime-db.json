@@ -12896,6 +12896,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 8,
+          "episode_key": "E8",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25995/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-S3-E8-1080p.mp4?code=240f45ff559796938c81aa20",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25995/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-S3-E8-1080p.mp4?code=240f45ff559796938c81aa20&dl=1",
+                "server": "Player",
+                "timestamp": 1795193402
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25993/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-S3-E8-480p.mp4?code=8b5bd9ad413c14e79b040cea",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25993/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-S3-E8-480p.mp4?code=8b5bd9ad413c14e79b040cea&dl=1",
+                "server": "Player",
+                "timestamp": 1795193401
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25994/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-S3-E8-720p.mp4?code=db914d355f17de676cdf94fc",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25994/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-S3-E8-720p.mp4?code=db914d355f17de676cdf94fc&dl=1",
+                "server": "Player",
+                "timestamp": 1795193401
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -52102,8 +52131,100 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/devils-crest_S1E4_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/devils-crest_S1E4_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/devils-crest_S1E4_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/devils-crest_S1E4_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/devils-crest_S1E4_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/devils-crest_S1E4_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/devils-crest_S1E4_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/devils-crest_S1E4_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/devils-crest_S1E4_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/devils-crest/S1E4_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English [Full]",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/devils-crest/S1E4_en2.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/devils-crest/S1E4_hi.vtt"
+            },
+            "hi2": {
+              "format": "vtt",
+              "label": "Hindi [Full]",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/devils-crest/S1E4_hi2.vtt"
+            }
+          }
         }
       ]
     },
@@ -65765,6 +65886,35 @@
                 "timestamp": 1793988298
               }
             }
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 3,
+          "episode_key": "E3",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25992/firefly-wedding-S1-E3-1080p.mp4?code=01e0698cda7d5cf3e957db6d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25992/firefly-wedding-S1-E3-1080p.mp4?code=01e0698cda7d5cf3e957db6d&dl=1",
+                "server": "Player",
+                "timestamp": 1795193351
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25990/firefly-wedding-S1-E3-480p.mp4?code=81c5df6c9e6760526d704bde",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25990/firefly-wedding-S1-E3-480p.mp4?code=81c5df6c9e6760526d704bde&dl=1",
+                "server": "Player",
+                "timestamp": 1795193351
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25991/firefly-wedding-S1-E3-720p.mp4?code=5fbd46f6b38c64230f058233",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25991/firefly-wedding-S1-E3-720p.mp4?code=5fbd46f6b38c64230f058233&dl=1",
+                "server": "Player",
+                "timestamp": 1795193351
+              }
+            },
+            "server2": {}
           },
           "audio": {},
           "subtitles": {}
@@ -164989,22 +165139,22 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25983/the-apothecary-daires-S3-E4-1080p.mp4?code=c8c331cddd76605d608c5e8a",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25983/the-apothecary-daires-S3-E4-1080p.mp4?code=c8c331cddd76605d608c5e8a&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25989/the-apothecary-daires-S3-E4-1080p.mp4?code=9e23c5422e37cdf602b4b2f4",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25989/the-apothecary-daires-S3-E4-1080p.mp4?code=9e23c5422e37cdf602b4b2f4&dl=1",
                 "server": "Player",
-                "timestamp": 1795188073
+                "timestamp": 1795192949
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25981/the-apothecary-daires-S3-E4-480p.mp4?code=4b085ac3416d17e602d60303",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25981/the-apothecary-daires-S3-E4-480p.mp4?code=4b085ac3416d17e602d60303&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25987/the-apothecary-daires-S3-E4-480p.mp4?code=f104f5b38fb72355c90cedc6",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25987/the-apothecary-daires-S3-E4-480p.mp4?code=f104f5b38fb72355c90cedc6&dl=1",
                 "server": "Player",
-                "timestamp": 1795188073
+                "timestamp": 1795192948
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25982/the-apothecary-daires-S3-E4-720p.mp4?code=92692a28adb90f096162634b",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25982/the-apothecary-daires-S3-E4-720p.mp4?code=92692a28adb90f096162634b&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25988/the-apothecary-daires-S3-E4-720p.mp4?code=09bc4df40e2af0298a97029a",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25988/the-apothecary-daires-S3-E4-720p.mp4?code=09bc4df40e2af0298a97029a&dl=1",
                 "server": "Player",
-                "timestamp": 1795188073
+                "timestamp": 1795192948
               }
             },
             "server2": {}
@@ -199801,6 +199951,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795229038292,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 315,
+      "movies": 241,
+      "episodeGroups": 371,
+      "timestamp": "2026-11-21T02:43:58.292Z"
+    },
+    {
       "id": 1795191169856,
       "source": "AnimeVerse",
       "status": "success",
@@ -199891,5 +200050,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-20T16:12:49.852Z"
+  "updated_at": "2026-11-21T02:43:58.292Z"
 }
