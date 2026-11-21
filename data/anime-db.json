@@ -8157,6 +8157,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 6,
+          "episode_key": "E6",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26028/a-wild-last-boss-appeared-S2-E6-1080p.mp4?code=28d7b4d78e5deec3948481f7",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26028/a-wild-last-boss-appeared-S2-E6-1080p.mp4?code=28d7b4d78e5deec3948481f7&dl=1",
+                "server": "Player",
+                "timestamp": 1795269076
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26026/a-wild-last-boss-appeared-S2-E6-480p.mp4?code=870131bc9de9b04bbb0f7121",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26026/a-wild-last-boss-appeared-S2-E6-480p.mp4?code=870131bc9de9b04bbb0f7121&dl=1",
+                "server": "Player",
+                "timestamp": 1795269076
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26027/a-wild-last-boss-appeared-S2-E6-720p.mp4?code=ad4101bee9b7850c03517c30",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26027/a-wild-last-boss-appeared-S2-E6-720p.mp4?code=ad4101bee9b7850c03517c30&dl=1",
+                "server": "Player",
+                "timestamp": 1795269076
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -181807,6 +181836,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 8,
+          "episode_key": "E8",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26031/the-seven-knights-of-the-marronnier-kingdom-S1-E8-1080p.mp4?code=df55423db109999c303a4617",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26031/the-seven-knights-of-the-marronnier-kingdom-S1-E8-1080p.mp4?code=df55423db109999c303a4617&dl=1",
+                "server": "Player",
+                "timestamp": 1795279938
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26029/the-seven-knights-of-the-marronnier-kingdom-S1-E8-480p.mp4?code=35150504a670d892dbcdcb74",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26029/the-seven-knights-of-the-marronnier-kingdom-S1-E8-480p.mp4?code=35150504a670d892dbcdcb74&dl=1",
+                "server": "Player",
+                "timestamp": 1795279938
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26030/the-seven-knights-of-the-marronnier-kingdom-S1-E8-720p.mp4?code=954651bef4abf4749ba318b7",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26030/the-seven-knights-of-the-marronnier-kingdom-S1-E8-720p.mp4?code=954651bef4abf4749ba318b7&dl=1",
+                "server": "Player",
+                "timestamp": 1795279938
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -200250,6 +200308,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795287418874,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 315,
+      "movies": 241,
+      "episodeGroups": 372,
+      "timestamp": "2026-11-21T18:56:58.874Z"
+    },
+    {
       "id": 1795262354992,
       "source": "AnimeVerse",
       "status": "success",
@@ -200358,5 +200425,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-21T11:59:14.991Z"
+  "updated_at": "2026-11-21T18:56:58.874Z"
 }
