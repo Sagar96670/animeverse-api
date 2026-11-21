@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+server.log
+backups/
+data/*.backup
+data/*.bak
+data/*.tmp
+server.js.*-backup
+server.js.search-backup
+*.backup
+*.backup-*
+*.backup-*
+*.bak
