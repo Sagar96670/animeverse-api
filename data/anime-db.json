@@ -1515,14 +1515,14 @@
       "id": "from-overshadowed-to-overpower",
       "title": "From Overshadowed To Overpower",
       "slug": "from-overshadowed-to-overpower",
-      "poster": "https://via.placeholder.com/400x600?text=No+Poster",
+      "poster": "https://image.tmdb.org/t/p/w780/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
       "synopsis": "",
       "genre": "",
-      "rating": "7.5",
+      "rating": "7.0",
       "year": null,
       "episode_count": 0,
-      "subDub": null,
-      "addedAt": 1784189085413,
+      "subDub": "fandub",
+      "addedAt": 1795239883642,
       "source": "AnimeVerse",
       "category": "latest"
     },
@@ -5281,11 +5281,11 @@
     {
       "id": "from-overshadowed-to-overpower",
       "title": "From Overshadowed To Overpower",
-      "poster": "https://via.placeholder.com/400x600?text=No+Poster",
+      "poster": "https://image.tmdb.org/t/p/w780/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
       "category": "latest",
-      "language": null,
-      "rating": "7.5",
-      "timestamp": 1784189085413,
+      "language": "fandub",
+      "rating": "7.0",
+      "timestamp": 1795239883642,
       "source": "AnimeVerse"
     },
     {
@@ -65922,6 +65922,276 @@
       ]
     },
     {
+      "anime_id": "from-overshadowed-to-overpower",
+      "anime_title": "From Overshadowed To Overpower",
+      "anime_slug": "from-overshadowed-to-overpower",
+      "season": 1,
+      "season_key": "S1",
+      "episodes": [
+        {
+          "episode": 1,
+          "episode_key": "E1",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25998/from-overshadowed-to-overpower-S1-E1-1080p.mp4?code=a1b0db5d4d6beeeaec63da8d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25998/from-overshadowed-to-overpower-S1-E1-1080p.mp4?code=a1b0db5d4d6beeeaec63da8d&dl=1",
+                "server": "Player",
+                "timestamp": 1795240018
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25996/from-overshadowed-to-overpower-S1-E1-480p.mp4?code=0e2dd22bb5ab83fa09eb60ed",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25996/from-overshadowed-to-overpower-S1-E1-480p.mp4?code=0e2dd22bb5ab83fa09eb60ed&dl=1",
+                "server": "Player",
+                "timestamp": 1795240018
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25997/from-overshadowed-to-overpower-S1-E1-720p.mp4?code=8d0309e814b200fc0b76c44d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25997/from-overshadowed-to-overpower-S1-E1-720p.mp4?code=8d0309e814b200fc0b76c44d&dl=1",
+                "server": "Player",
+                "timestamp": 1795240018
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 2,
+          "episode_key": "E2",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26001/from-overshadowed-to-overpower-S1-E2-1080p.mp4?code=c8a3d6e006acf54d3cc3d9b2",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26001/from-overshadowed-to-overpower-S1-E2-1080p.mp4?code=c8a3d6e006acf54d3cc3d9b2&dl=1",
+                "server": "Player",
+                "timestamp": 1795240054
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25999/from-overshadowed-to-overpower-S1-E2-480p.mp4?code=e249fab4ac8e89b771bae297",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25999/from-overshadowed-to-overpower-S1-E2-480p.mp4?code=e249fab4ac8e89b771bae297&dl=1",
+                "server": "Player",
+                "timestamp": 1795240053
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26000/from-overshadowed-to-overpower-S1-E2-720p.mp4?code=89fd3ffb9caf16a25bace902",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26000/from-overshadowed-to-overpower-S1-E2-720p.mp4?code=89fd3ffb9caf16a25bace902&dl=1",
+                "server": "Player",
+                "timestamp": 1795240054
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 3,
+          "episode_key": "E3",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26004/from-overshadowed-to-overpower-S1-E3-1080p.mp4?code=ee6c2d3008d908860191a7fa",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26004/from-overshadowed-to-overpower-S1-E3-1080p.mp4?code=ee6c2d3008d908860191a7fa&dl=1",
+                "server": "Player",
+                "timestamp": 1795240187
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26002/from-overshadowed-to-overpower-S1-E3-480p.mp4?code=de91859d9f70ad47b413305b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26002/from-overshadowed-to-overpower-S1-E3-480p.mp4?code=de91859d9f70ad47b413305b&dl=1",
+                "server": "Player",
+                "timestamp": 1795240187
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26003/from-overshadowed-to-overpower-S1-E3-720p.mp4?code=3d49c7a90e21ec5c92432dc4",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26003/from-overshadowed-to-overpower-S1-E3-720p.mp4?code=3d49c7a90e21ec5c92432dc4&dl=1",
+                "server": "Player",
+                "timestamp": 1795240187
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 4,
+          "episode_key": "E4",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26007/from-overshadowed-to-overpower-S1-E4-1080p.mp4?code=42ccf3f366ee8b35efa201af",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26007/from-overshadowed-to-overpower-S1-E4-1080p.mp4?code=42ccf3f366ee8b35efa201af&dl=1",
+                "server": "Player",
+                "timestamp": 1795240315
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26005/from-overshadowed-to-overpower-S1-E4-480p.mp4?code=034731740e63bebd3f044761",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26005/from-overshadowed-to-overpower-S1-E4-480p.mp4?code=034731740e63bebd3f044761&dl=1",
+                "server": "Player",
+                "timestamp": 1795240315
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26006/from-overshadowed-to-overpower-S1-E4-720p.mp4?code=7b203efc033c5c96beb18939",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26006/from-overshadowed-to-overpower-S1-E4-720p.mp4?code=7b203efc033c5c96beb18939&dl=1",
+                "server": "Player",
+                "timestamp": 1795240315
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26010/from-overshadowed-to-overpower-S1-E5-1080p.mp4?code=7005c523eccc46dcc2a7f7d2",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26010/from-overshadowed-to-overpower-S1-E5-1080p.mp4?code=7005c523eccc46dcc2a7f7d2&dl=1",
+                "server": "Player",
+                "timestamp": 1795240482
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26008/from-overshadowed-to-overpower-S1-E5-480p.mp4?code=365ea01c6461bf9380650947",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26008/from-overshadowed-to-overpower-S1-E5-480p.mp4?code=365ea01c6461bf9380650947&dl=1",
+                "server": "Player",
+                "timestamp": 1795240482
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26009/from-overshadowed-to-overpower-S1-E5-720p.mp4?code=a90bd4be66e81496dbb47f33",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26009/from-overshadowed-to-overpower-S1-E5-720p.mp4?code=a90bd4be66e81496dbb47f33&dl=1",
+                "server": "Player",
+                "timestamp": 1795240482
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 6,
+          "episode_key": "E6",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26013/from-overshadowed-to-overpower-S1-E6-1080p.mp4?code=0e9a5cdd07fb48b162bcefbc",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26013/from-overshadowed-to-overpower-S1-E6-1080p.mp4?code=0e9a5cdd07fb48b162bcefbc&dl=1",
+                "server": "Player",
+                "timestamp": 1795240641
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26011/from-overshadowed-to-overpower-S1-E6-480p.mp4?code=5a58ad82640e765369d50896",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26011/from-overshadowed-to-overpower-S1-E6-480p.mp4?code=5a58ad82640e765369d50896&dl=1",
+                "server": "Player",
+                "timestamp": 1795240641
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26012/from-overshadowed-to-overpower-S1-E6-720p.mp4?code=ce46b2c73aa20216b6a24351",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26012/from-overshadowed-to-overpower-S1-E6-720p.mp4?code=ce46b2c73aa20216b6a24351&dl=1",
+                "server": "Player",
+                "timestamp": 1795240641
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 7,
+          "episode_key": "E7",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26015/from-overshadowed-to-overpower-S1-E7-1080p.mp4?code=31a8191202b211d5e816888f",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26015/from-overshadowed-to-overpower-S1-E7-1080p.mp4?code=31a8191202b211d5e816888f&dl=1",
+                "server": "Player",
+                "timestamp": 1795240749
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26016/from-overshadowed-to-overpower-S1-E7-480p.mp4?code=884bfbe9b62ebfcffa70c2e0",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26016/from-overshadowed-to-overpower-S1-E7-480p.mp4?code=884bfbe9b62ebfcffa70c2e0&dl=1",
+                "server": "Player",
+                "timestamp": 1795240749
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26014/from-overshadowed-to-overpower-S1-E7-720p.mp4?code=560202a1742fcd2774bcf3dd",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26014/from-overshadowed-to-overpower-S1-E7-720p.mp4?code=560202a1742fcd2774bcf3dd&dl=1",
+                "server": "Player",
+                "timestamp": 1795240749
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 8,
+          "episode_key": "E8",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26019/from-overshadowed-to-overpower-S1-E8-1080p.mp4?code=d42692177f095215c0a6797e",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26019/from-overshadowed-to-overpower-S1-E8-1080p.mp4?code=d42692177f095215c0a6797e&dl=1",
+                "server": "Player",
+                "timestamp": 1795240935
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26017/from-overshadowed-to-overpower-S1-E8-480p.mp4?code=0c7abfbcc41f7b51eb076f83",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26017/from-overshadowed-to-overpower-S1-E8-480p.mp4?code=0c7abfbcc41f7b51eb076f83&dl=1",
+                "server": "Player",
+                "timestamp": 1795240935
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26018/from-overshadowed-to-overpower-S1-E8-720p.mp4?code=c99e2320bd865c3c0c7e2a8d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26018/from-overshadowed-to-overpower-S1-E8-720p.mp4?code=c99e2320bd865c3c0c7e2a8d&dl=1",
+                "server": "Player",
+                "timestamp": 1795240935
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 9,
+          "episode_key": "E9",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26022/from-overshadowed-to-overpower-S1-E9-1080p.mp4?code=53b8eb3c51e19358cae2987f",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26022/from-overshadowed-to-overpower-S1-E9-1080p.mp4?code=53b8eb3c51e19358cae2987f&dl=1",
+                "server": "Player",
+                "timestamp": 1795241080
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26020/from-overshadowed-to-overpower-S1-E9-480p.mp4?code=90de3ed5e9d195972951958e",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26020/from-overshadowed-to-overpower-S1-E9-480p.mp4?code=90de3ed5e9d195972951958e&dl=1",
+                "server": "Player",
+                "timestamp": 1795241080
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26021/from-overshadowed-to-overpower-S1-E9-720p.mp4?code=0e15339874c307f191977975",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26021/from-overshadowed-to-overpower-S1-E9-720p.mp4?code=0e15339874c307f191977975&dl=1",
+                "server": "Player",
+                "timestamp": 1795241080
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        }
+      ]
+    },
+    {
       "anime_id": "full-clearing-another-world-under-a-goddess-with-zero-believers",
       "anime_title": "Full Clearing Another World Under A Goddess With Zero Believers",
       "anime_slug": "full-clearing-another-world-under-a-goddess-with-zero-believers",
@@ -108869,6 +109139,35 @@
                 "timestamp": 1794755959
               }
             }
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 13,
+          "episode_key": "E13",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26025/mushoku-tensei-jobless-reincarnation-S3-E13-1080p.mp4?code=5b4af61e067a126970d1c6e4",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26025/mushoku-tensei-jobless-reincarnation-S3-E13-1080p.mp4?code=5b4af61e067a126970d1c6e4&dl=1",
+                "server": "Player",
+                "timestamp": 1795245801
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26023/mushoku-tensei-jobless-reincarnation-S3-E13-480p.mp4?code=2a6cdb17b7732756acebfceb",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26023/mushoku-tensei-jobless-reincarnation-S3-E13-480p.mp4?code=2a6cdb17b7732756acebfceb&dl=1",
+                "server": "Player",
+                "timestamp": 1795245801
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26024/mushoku-tensei-jobless-reincarnation-S3-E13-720p.mp4?code=b9e1cc37257122c94ee9cf04",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26024/mushoku-tensei-jobless-reincarnation-S3-E13-720p.mp4?code=b9e1cc37257122c94ee9cf04&dl=1",
+                "server": "Player",
+                "timestamp": 1795245801
+              }
+            },
+            "server2": {}
           },
           "audio": {},
           "subtitles": {}
@@ -199951,6 +200250,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795262354992,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 315,
+      "movies": 241,
+      "episodeGroups": 372,
+      "timestamp": "2026-11-21T11:59:14.991Z"
+    },
+    {
       "id": 1795229038292,
       "source": "AnimeVerse",
       "status": "success",
@@ -200050,5 +200358,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-21T02:43:58.292Z"
+  "updated_at": "2026-11-21T11:59:14.991Z"
 }
