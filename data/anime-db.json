@@ -65947,6 +65947,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 4,
+          "episode_key": "E4",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26037/firefly-wedding-S1-E4-1080p.mp4?code=25030db75fdf626aea619405",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26037/firefly-wedding-S1-E4-1080p.mp4?code=25030db75fdf626aea619405&dl=1",
+                "server": "Player",
+                "timestamp": 1795321941
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26035/firefly-wedding-S1-E4-480p.mp4?code=05316224fd29c3d20e9571b4",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26035/firefly-wedding-S1-E4-480p.mp4?code=05316224fd29c3d20e9571b4&dl=1",
+                "server": "Player",
+                "timestamp": 1795321941
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26036/firefly-wedding-S1-E4-720p.mp4?code=deab20898544d47fe9d55395",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26036/firefly-wedding-S1-E4-720p.mp4?code=deab20898544d47fe9d55395&dl=1",
+                "server": "Player",
+                "timestamp": 1795321941
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -146049,6 +146078,35 @@
               "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/ranma/S3E7_hi.vtt"
             }
           }
+        },
+        {
+          "episode": 8,
+          "episode_key": "E8",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26040/ranma-S3-E8-1080p.mp4?code=bd3113f766a7172add8e9b5d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26040/ranma-S3-E8-1080p.mp4?code=bd3113f766a7172add8e9b5d&dl=1",
+                "server": "Player",
+                "timestamp": 1795321995
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26038/ranma-S3-E8-480p.mp4?code=9e92d6d11e008c1734052f47",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26038/ranma-S3-E8-480p.mp4?code=9e92d6d11e008c1734052f47&dl=1",
+                "server": "Player",
+                "timestamp": 1795321994
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26039/ranma-S3-E8-720p.mp4?code=cd2fd571d74b4f1964cfe5a7",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26039/ranma-S3-E8-720p.mp4?code=cd2fd571d74b4f1964cfe5a7&dl=1",
+                "server": "Player",
+                "timestamp": 1795321995
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -165489,6 +165547,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26034/the-apothecary-daires-S3-E5-1080p.mp4?code=7d5c4a33791bb7c5636bad02",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26034/the-apothecary-daires-S3-E5-1080p.mp4?code=7d5c4a33791bb7c5636bad02&dl=1",
+                "server": "Player",
+                "timestamp": 1795321094
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26032/the-apothecary-daires-S3-E5-480p.mp4?code=1d50905569505b257d72e6dc",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26032/the-apothecary-daires-S3-E5-480p.mp4?code=1d50905569505b257d72e6dc&dl=1",
+                "server": "Player",
+                "timestamp": 1795321094
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26033/the-apothecary-daires-S3-E5-720p.mp4?code=6801dcc29b36a1e5f5226112",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26033/the-apothecary-daires-S3-E5-720p.mp4?code=6801dcc29b36a1e5f5226112&dl=1",
+                "server": "Player",
+                "timestamp": 1795321094
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -176512,6 +176599,35 @@
                 "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25967/the-iceblade-sorcerer-shall-rule-the-world-S2-E3-720p.mp4?code=0fec5c8e594d8c756de70a93&dl=1",
                 "server": "Player",
                 "timestamp": 1795112484
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 4,
+          "episode_key": "E4",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26043/the-iceblade-sorcerer-shall-rule-the-world-S2-E4-1080p.mkv?code=2699dd3c576f2637b938c66e",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26043/the-iceblade-sorcerer-shall-rule-the-world-S2-E4-1080p.mkv?code=2699dd3c576f2637b938c66e&dl=1",
+                "server": "Player",
+                "timestamp": 1795322069
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26041/the-iceblade-sorcerer-shall-rule-the-world-S2-E4-480p.mkv?code=48068cc4e357aa7bb9b6d7ef",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26041/the-iceblade-sorcerer-shall-rule-the-world-S2-E4-480p.mkv?code=48068cc4e357aa7bb9b6d7ef&dl=1",
+                "server": "Player",
+                "timestamp": 1795322068
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26042/the-iceblade-sorcerer-shall-rule-the-world-S2-E4-720p.mkv?code=0cee83cf4071089206679c89",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26042/the-iceblade-sorcerer-shall-rule-the-world-S2-E4-720p.mkv?code=0cee83cf4071089206679c89&dl=1",
+                "server": "Player",
+                "timestamp": 1795322068
               }
             },
             "server2": {}
@@ -200308,6 +200424,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795322486913,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 315,
+      "movies": 241,
+      "episodeGroups": 372,
+      "timestamp": "2026-11-22T04:41:26.913Z"
+    },
+    {
       "id": 1795287418874,
       "source": "AnimeVerse",
       "status": "success",
@@ -200425,5 +200550,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-21T18:56:58.874Z"
+  "updated_at": "2026-11-22T04:41:26.913Z"
 }
