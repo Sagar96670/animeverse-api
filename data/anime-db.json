@@ -33865,6 +33865,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 7,
+          "episode_key": "E7",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26046/blue-box-S2-E7-1080p.mkv?code=a173fb6fb58a588505708d4b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26046/blue-box-S2-E7-1080p.mkv?code=a173fb6fb58a588505708d4b&dl=1",
+                "server": "Player",
+                "timestamp": 1795427986
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26044/blue-box-S2-E7-480p.mp4?code=2ae167c6207aacf698169b2f",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26044/blue-box-S2-E7-480p.mp4?code=2ae167c6207aacf698169b2f&dl=1",
+                "server": "Player",
+                "timestamp": 1795427986
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26045/blue-box-S2-E7-720p.mp4?code=55f5351117defefbed3156bf",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26045/blue-box-S2-E7-720p.mp4?code=55f5351117defefbed3156bf&dl=1",
+                "server": "Player",
+                "timestamp": 1795427986
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -64418,6 +64447,35 @@
                 "timestamp": 1794151066
               }
             }
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26052/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-S1-E5-1080p.mp4?code=48a4424bd32eefd1d91584f8",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26052/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-S1-E5-1080p.mp4?code=48a4424bd32eefd1d91584f8&dl=1",
+                "server": "Player",
+                "timestamp": 1795428074
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26050/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-S1-E5-480p.mp4?code=59656109711b1c18cd28e2fa",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26050/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-S1-E5-480p.mp4?code=59656109711b1c18cd28e2fa&dl=1",
+                "server": "Player",
+                "timestamp": 1795428074
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26051/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-S1-E5-720p.mp4?code=82502e614cede6aa2a1eb7cd",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26051/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-S1-E5-720p.mp4?code=82502e614cede6aa2a1eb7cd&dl=1",
+                "server": "Player",
+                "timestamp": 1795428074
+              }
+            },
+            "server2": {}
           },
           "audio": {},
           "subtitles": {}
@@ -140740,6 +140798,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 9,
+          "episode_key": "E9",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26049/overgeared-S1-E9-1080p.mp4?code=8531b133ebbff06e757caed4",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26049/overgeared-S1-E9-1080p.mp4?code=8531b133ebbff06e757caed4&dl=1",
+                "server": "Player",
+                "timestamp": 1795428035
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26047/overgeared-S1-E9-480p.mp4?code=b006cfb3e522dca5788ac177",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26047/overgeared-S1-E9-480p.mp4?code=b006cfb3e522dca5788ac177&dl=1",
+                "server": "Player",
+                "timestamp": 1795428035
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26048/overgeared-S1-E9-720p.mp4?code=c9c4c82d08a1dd35bd220924",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26048/overgeared-S1-E9-720p.mp4?code=c9c4c82d08a1dd35bd220924&dl=1",
+                "server": "Player",
+                "timestamp": 1795428035
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -200424,6 +200511,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795469787098,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 315,
+      "movies": 241,
+      "episodeGroups": 372,
+      "timestamp": "2026-11-23T21:36:27.098Z"
+    },
+    {
       "id": 1795322486913,
       "source": "AnimeVerse",
       "status": "success",
@@ -200550,5 +200646,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-22T04:41:26.913Z"
+  "updated_at": "2026-11-23T21:36:27.098Z"
 }
