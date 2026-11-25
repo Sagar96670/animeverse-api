@@ -177783,6 +177783,175 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 8,
+          "episode_key": "E8",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26055/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-S1-E8-1080p.mp4?code=1d79655706b1604ed3673046",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26055/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-S1-E8-1080p.mp4?code=1d79655706b1604ed3673046&dl=1",
+                "server": "Player",
+                "timestamp": 1795575022
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26053/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-S1-E8-480p.mp4?code=cd80410a84986e060d32ce7d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26053/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-S1-E8-480p.mp4?code=cd80410a84986e060d32ce7d&dl=1",
+                "server": "Player",
+                "timestamp": 1795575022
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26054/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-S1-E8-720p.mp4?code=e4473f89ed34cbe1c87049a8",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26054/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-S1-E8-720p.mp4?code=e4473f89ed34cbe1c87049a8&dl=1",
+                "server": "Player",
+                "timestamp": 1795575022
+              }
+            },
+            "server2": {}
+          },
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life_S1E8_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life/S1E8_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "Forced",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life/S1E8_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "CC",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life/S1E8_en3.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life/S1E8_hi.vtt"
+            },
+            "ta": {
+              "format": "vtt",
+              "label": "Tamil",
+              "lang": "ta",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life/S1E8_ta.vtt"
+            },
+            "te": {
+              "format": "vtt",
+              "label": "Telugu",
+              "lang": "te",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life/S1E8_te.vtt"
+            }
+          }
         }
       ]
     },
@@ -200511,6 +200680,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795601124944,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 315,
+      "movies": 241,
+      "episodeGroups": 372,
+      "timestamp": "2026-11-25T10:05:24.944Z"
+    },
+    {
       "id": 1795469787098,
       "source": "AnimeVerse",
       "status": "success",
@@ -200646,5 +200824,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-23T21:36:27.098Z"
+  "updated_at": "2026-11-25T10:05:24.944Z"
 }
