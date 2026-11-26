@@ -61103,7 +61103,26 @@
           "episode": 2,
           "episode_key": "E2",
           "sources": {
-            "server1": {},
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26145/dragon-ball-super-beerus-remake-S1-E2-1080p.mp4?code=7e140be2d0aca372fc759271",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26145/dragon-ball-super-beerus-remake-S1-E2-1080p.mp4?code=7e140be2d0aca372fc759271&dl=1",
+                "server": "Player",
+                "timestamp": 1795708429
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26143/dragon-ball-super-beerus-remake-S1-E2-480p.mp4?code=84d1549af4dbc9775a3e715f",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26143/dragon-ball-super-beerus-remake-S1-E2-480p.mp4?code=84d1549af4dbc9775a3e715f&dl=1",
+                "server": "Player",
+                "timestamp": 1795708429
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26144/dragon-ball-super-beerus-remake-S1-E2-720p.mp4?code=c3ae77d8b42df0cc09e8d5ae",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26144/dragon-ball-super-beerus-remake-S1-E2-720p.mp4?code=c3ae77d8b42df0cc09e8d5ae&dl=1",
+                "server": "Player",
+                "timestamp": 1795708429
+              }
+            },
             "server2": {
               "1080p": {
                 "url": "https://streamer.ayushkum099766.workers.dev/watch/dragon-ball-super-beerus-remake-s01e02-1080p.mp4",
@@ -61132,7 +61151,26 @@
           "episode": 3,
           "episode_key": "E3",
           "sources": {
-            "server1": {},
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26142/dragon-ball-super-beerus-remake-S1-E3-1080p.mp4?code=0cead48f3522c15f9b8d5582",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26142/dragon-ball-super-beerus-remake-S1-E3-1080p.mp4?code=0cead48f3522c15f9b8d5582&dl=1",
+                "server": "Player",
+                "timestamp": 1795708415
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26140/dragon-ball-super-beerus-remake-S1-E3-480p.mp4?code=8ee97519bdf06df1ec8ab14d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26140/dragon-ball-super-beerus-remake-S1-E3-480p.mp4?code=8ee97519bdf06df1ec8ab14d&dl=1",
+                "server": "Player",
+                "timestamp": 1795708414
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26141/dragon-ball-super-beerus-remake-S1-E3-720p.mp4?code=a8135220ab9a8f82722eb3b2",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26141/dragon-ball-super-beerus-remake-S1-E3-720p.mp4?code=a8135220ab9a8f82722eb3b2&dl=1",
+                "server": "Player",
+                "timestamp": 1795708415
+              }
+            },
             "server2": {
               "1080p": {
                 "url": "https://streamer.ayushkum099766.workers.dev/watch/dragon-ball-super-beerus-remake-s01e03-1080p.mp4",
@@ -66075,22 +66113,22 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26064/fool-night-S1-E1-1080p.mp4?code=d5bdc53f58db0f9b4a5736c3",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26064/fool-night-S1-E1-1080p.mp4?code=d5bdc53f58db0f9b4a5736c3&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26106/fool-night-S1-E1-1080p.mp4?code=587ba0587041c508163d9cab",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26106/fool-night-S1-E1-1080p.mp4?code=587ba0587041c508163d9cab&dl=1",
                 "server": "Player",
-                "timestamp": 1795692651
+                "timestamp": 1795708226
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26062/fool-night-S1-E1-480p.mp4?code=82002957a9f3fcca3d50126b",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26062/fool-night-S1-E1-480p.mp4?code=82002957a9f3fcca3d50126b&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26104/fool-night-S1-E1-480p.mp4?code=5c4a6b29821f31bebe67d652",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26104/fool-night-S1-E1-480p.mp4?code=5c4a6b29821f31bebe67d652&dl=1",
                 "server": "Player",
-                "timestamp": 1795692651
+                "timestamp": 1795708226
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26063/fool-night-S1-E1-720p.mp4?code=165c1e850421c1314774aa0f",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26063/fool-night-S1-E1-720p.mp4?code=165c1e850421c1314774aa0f&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26105/fool-night-S1-E1-720p.mp4?code=a1de1573644e3ea2a8fbe19b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26105/fool-night-S1-E1-720p.mp4?code=a1de1573644e3ea2a8fbe19b&dl=1",
                 "server": "Player",
-                "timestamp": 1795692651
+                "timestamp": 1795708226
               }
             },
             "server2": {}
@@ -66104,22 +66142,312 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26067/fool-night-S1-E2-1080p.mp4?code=bde18d4fff5dfab6dd4613c6",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26067/fool-night-S1-E2-1080p.mp4?code=bde18d4fff5dfab6dd4613c6&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26109/fool-night-S1-E2-1080p.mp4?code=06b12fd331fa51a77b080f4f",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26109/fool-night-S1-E2-1080p.mp4?code=06b12fd331fa51a77b080f4f&dl=1",
                 "server": "Player",
-                "timestamp": 1795692790
+                "timestamp": 1795708241
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26065/fool-night-S1-E2-480p.mp4?code=d5f4bf50a49d9bd3f0de756c",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26065/fool-night-S1-E2-480p.mp4?code=d5f4bf50a49d9bd3f0de756c&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26107/fool-night-S1-E2-480p.mp4?code=d7b173559e99ae9d41cbb9ad",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26107/fool-night-S1-E2-480p.mp4?code=d7b173559e99ae9d41cbb9ad&dl=1",
                 "server": "Player",
-                "timestamp": 1795692790
+                "timestamp": 1795708241
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26066/fool-night-S1-E2-720p.mp4?code=3b09613cd9f6ad4af1a1cde5",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26066/fool-night-S1-E2-720p.mp4?code=3b09613cd9f6ad4af1a1cde5&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26108/fool-night-S1-E2-720p.mp4?code=ead12ca53a6ac68aed892925",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26108/fool-night-S1-E2-720p.mp4?code=ead12ca53a6ac68aed892925&dl=1",
                 "server": "Player",
-                "timestamp": 1795692790
+                "timestamp": 1795708241
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 3,
+          "episode_key": "E3",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26112/fool-night-S1-E3-1080p.mp4?code=a0f6c78d3e19996c786e6f4d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26112/fool-night-S1-E3-1080p.mp4?code=a0f6c78d3e19996c786e6f4d&dl=1",
+                "server": "Player",
+                "timestamp": 1795708257
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26110/fool-night-S1-E3-480p.mp4?code=41fd7d0dc2c214e2b46a1ab6",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26110/fool-night-S1-E3-480p.mp4?code=41fd7d0dc2c214e2b46a1ab6&dl=1",
+                "server": "Player",
+                "timestamp": 1795708257
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26111/fool-night-S1-E3-720p.mp4?code=83eedc60584f8c9e578ae242",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26111/fool-night-S1-E3-720p.mp4?code=83eedc60584f8c9e578ae242&dl=1",
+                "server": "Player",
+                "timestamp": 1795708257
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 4,
+          "episode_key": "E4",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26115/fool-night-S1-E4-1080p.mp4?code=6a700dc704ed06e992b3a943",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26115/fool-night-S1-E4-1080p.mp4?code=6a700dc704ed06e992b3a943&dl=1",
+                "server": "Player",
+                "timestamp": 1795708274
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26113/fool-night-S1-E4-480p.mp4?code=b69d289cc8c9ee339f4ae93d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26113/fool-night-S1-E4-480p.mp4?code=b69d289cc8c9ee339f4ae93d&dl=1",
+                "server": "Player",
+                "timestamp": 1795708273
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26114/fool-night-S1-E4-720p.mp4?code=b951649c8abd062e3ad30c59",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26114/fool-night-S1-E4-720p.mp4?code=b951649c8abd062e3ad30c59&dl=1",
+                "server": "Player",
+                "timestamp": 1795708273
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26118/fool-night-S1-E5-1080p.mp4?code=4b10348507f2cd03c2f61e44",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26118/fool-night-S1-E5-1080p.mp4?code=4b10348507f2cd03c2f61e44&dl=1",
+                "server": "Player",
+                "timestamp": 1795708289
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26116/fool-night-S1-E5-480p.mp4?code=5bde76ae8de37c3a64cfacee",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26116/fool-night-S1-E5-480p.mp4?code=5bde76ae8de37c3a64cfacee&dl=1",
+                "server": "Player",
+                "timestamp": 1795708289
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26117/fool-night-S1-E5-720p.mp4?code=80bd4bb9488366107f8e4841",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26117/fool-night-S1-E5-720p.mp4?code=80bd4bb9488366107f8e4841&dl=1",
+                "server": "Player",
+                "timestamp": 1795708289
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 6,
+          "episode_key": "E6",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26121/fool-night-S1-E6-1080p.mp4?code=b34ef848107c1bb43cb3c526",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26121/fool-night-S1-E6-1080p.mp4?code=b34ef848107c1bb43cb3c526&dl=1",
+                "server": "Player",
+                "timestamp": 1795708305
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26119/fool-night-S1-E6-480p.mp4?code=214c4d2626f324af59b4740b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26119/fool-night-S1-E6-480p.mp4?code=214c4d2626f324af59b4740b&dl=1",
+                "server": "Player",
+                "timestamp": 1795708305
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26120/fool-night-S1-E6-720p.mp4?code=ef4357ebe596be3339b3e136",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26120/fool-night-S1-E6-720p.mp4?code=ef4357ebe596be3339b3e136&dl=1",
+                "server": "Player",
+                "timestamp": 1795708305
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 7,
+          "episode_key": "E7",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26124/fool-night-S1-E7-1080p.mp4?code=531c84989a24495dd9b8be52",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26124/fool-night-S1-E7-1080p.mp4?code=531c84989a24495dd9b8be52&dl=1",
+                "server": "Player",
+                "timestamp": 1795708319
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26122/fool-night-S1-E7-480p.mp4?code=8fa158237aadd286ec7fbc5a",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26122/fool-night-S1-E7-480p.mp4?code=8fa158237aadd286ec7fbc5a&dl=1",
+                "server": "Player",
+                "timestamp": 1795708319
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26123/fool-night-S1-E7-720p.mp4?code=781417bb569de857659393cf",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26123/fool-night-S1-E7-720p.mp4?code=781417bb569de857659393cf&dl=1",
+                "server": "Player",
+                "timestamp": 1795708319
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 8,
+          "episode_key": "E8",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26127/fool-night-S1-E8-1080p.mp4?code=7ead912025310e037a23e93f",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26127/fool-night-S1-E8-1080p.mp4?code=7ead912025310e037a23e93f&dl=1",
+                "server": "Player",
+                "timestamp": 1795708335
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26125/fool-night-S1-E8-480p.mp4?code=7d0e757495cc9ae3e1eaa0ab",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26125/fool-night-S1-E8-480p.mp4?code=7d0e757495cc9ae3e1eaa0ab&dl=1",
+                "server": "Player",
+                "timestamp": 1795708335
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26126/fool-night-S1-E8-720p.mp4?code=420b75d0d0402aee0cfa9b94",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26126/fool-night-S1-E8-720p.mp4?code=420b75d0d0402aee0cfa9b94&dl=1",
+                "server": "Player",
+                "timestamp": 1795708335
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 9,
+          "episode_key": "E9",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26130/fool-night-S1-E9-1080p.mp4?code=7e70790892b93e3933ac4184",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26130/fool-night-S1-E9-1080p.mp4?code=7e70790892b93e3933ac4184&dl=1",
+                "server": "Player",
+                "timestamp": 1795708351
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26128/fool-night-S1-E9-480p.mp4?code=9672ef0bd03c7956b8ccd358",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26128/fool-night-S1-E9-480p.mp4?code=9672ef0bd03c7956b8ccd358&dl=1",
+                "server": "Player",
+                "timestamp": 1795708350
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26129/fool-night-S1-E9-720p.mp4?code=a4fff3b67fc5b8d72cbffbc6",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26129/fool-night-S1-E9-720p.mp4?code=a4fff3b67fc5b8d72cbffbc6&dl=1",
+                "server": "Player",
+                "timestamp": 1795708351
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 10,
+          "episode_key": "E10",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26133/fool-night-S1-E10-1080p.mp4?code=2f33fe7c92c13c00c2ef2b71",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26133/fool-night-S1-E10-1080p.mp4?code=2f33fe7c92c13c00c2ef2b71&dl=1",
+                "server": "Player",
+                "timestamp": 1795708367
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26131/fool-night-S1-E10-480p.mp4?code=378cb8a62479e0f2cecfce3b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26131/fool-night-S1-E10-480p.mp4?code=378cb8a62479e0f2cecfce3b&dl=1",
+                "server": "Player",
+                "timestamp": 1795708367
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26132/fool-night-S1-E10-720p.mp4?code=795c08721a7eef179a3696d2",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26132/fool-night-S1-E10-720p.mp4?code=795c08721a7eef179a3696d2&dl=1",
+                "server": "Player",
+                "timestamp": 1795708367
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 11,
+          "episode_key": "E11",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26136/fool-night-S1-E11-1080p.mp4?code=24e8a4eba5eef61203373921",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26136/fool-night-S1-E11-1080p.mp4?code=24e8a4eba5eef61203373921&dl=1",
+                "server": "Player",
+                "timestamp": 1795708384
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26134/fool-night-S1-E11-480p.mp4?code=d3e0745418c98a2b44c09fbe",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26134/fool-night-S1-E11-480p.mp4?code=d3e0745418c98a2b44c09fbe&dl=1",
+                "server": "Player",
+                "timestamp": 1795708383
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26135/fool-night-S1-E11-720p.mp4?code=feb10daf1338fd42e8fd3f3a",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26135/fool-night-S1-E11-720p.mp4?code=feb10daf1338fd42e8fd3f3a&dl=1",
+                "server": "Player",
+                "timestamp": 1795708383
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 12,
+          "episode_key": "E12",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26139/fool-night-S1-E12-1080p.mp4?code=277e9e13c1ab3a6ec97b86c2",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26139/fool-night-S1-E12-1080p.mp4?code=277e9e13c1ab3a6ec97b86c2&dl=1",
+                "server": "Player",
+                "timestamp": 1795708399
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26137/fool-night-S1-E12-480p.mp4?code=42a6f4c64a4b83d5a70bc89c",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26137/fool-night-S1-E12-480p.mp4?code=42a6f4c64a4b83d5a70bc89c&dl=1",
+                "server": "Player",
+                "timestamp": 1795708399
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26138/fool-night-S1-E12-720p.mp4?code=7abfc75c547b82dadb77a721",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26138/fool-night-S1-E12-720p.mp4?code=7abfc75c547b82dadb77a721&dl=1",
+                "server": "Player",
+                "timestamp": 1795708399
               }
             },
             "server2": {}
@@ -142918,529 +143246,6 @@
       "anime_id": "the-ramparts-of-ice",
       "anime_title": "The Ramparts Of Ice",
       "anime_slug": "the-ramparts-of-ice",
-      "season": 2,
-      "season_key": "S2",
-      "episodes": [
-        {
-          "episode": 1,
-          "episode_key": "E1",
-          "sources": {
-            "server1": {},
-            "server2": {}
-          },
-          "audio": {
-            "1080p": {
-              "tracks": [
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t1_hin.ogg",
-                  "default": true,
-                  "lang": "hi",
-                  "name": "Hindi"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t2_tam.opus",
-                  "default": false,
-                  "lang": "ta",
-                  "name": "Tamil"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t3_tel.opus",
-                  "default": false,
-                  "lang": "te",
-                  "name": "Telugu"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t4_eng.opus",
-                  "default": false,
-                  "lang": "en",
-                  "name": "English"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t5_jpn.opus",
-                  "default": false,
-                  "lang": "ja",
-                  "name": "Japanese"
-                }
-              ]
-            },
-            "480p": {
-              "tracks": [
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t1_hin.ogg",
-                  "default": true,
-                  "lang": "hi",
-                  "name": "Hindi"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t2_tam.opus",
-                  "default": false,
-                  "lang": "ta",
-                  "name": "Tamil"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t3_tel.opus",
-                  "default": false,
-                  "lang": "te",
-                  "name": "Telugu"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t4_eng.opus",
-                  "default": false,
-                  "lang": "en",
-                  "name": "English"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t5_jpn.opus",
-                  "default": false,
-                  "lang": "ja",
-                  "name": "Japanese"
-                }
-              ]
-            },
-            "720p": {
-              "tracks": [
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t1_hin.ogg",
-                  "default": true,
-                  "lang": "hi",
-                  "name": "Hindi"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t2_tam.opus",
-                  "default": false,
-                  "lang": "ta",
-                  "name": "Tamil"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t3_tel.opus",
-                  "default": false,
-                  "lang": "te",
-                  "name": "Telugu"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t4_eng.opus",
-                  "default": false,
-                  "lang": "en",
-                  "name": "English"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t5_jpn.opus",
-                  "default": false,
-                  "lang": "ja",
-                  "name": "Japanese"
-                }
-              ]
-            }
-          },
-          "subtitles": {
-            "en": {
-              "format": "vtt",
-              "label": "English",
-              "lang": "en",
-              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E1_en.vtt"
-            },
-            "en2": {
-              "format": "vtt",
-              "label": "English [Full]",
-              "lang": "en",
-              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E1_en2.vtt"
-            },
-            "en3": {
-              "format": "vtt",
-              "label": "English [Full]",
-              "lang": "en",
-              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E1_en3.vtt"
-            },
-            "hi": {
-              "format": "vtt",
-              "label": "Hindi",
-              "lang": "hi",
-              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E1_hi.vtt"
-            }
-          }
-        },
-        {
-          "episode": 2,
-          "episode_key": "E2",
-          "sources": {
-            "server1": {},
-            "server2": {}
-          },
-          "audio": {
-            "1080p": {
-              "tracks": [
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t1_hin.ogg",
-                  "default": true,
-                  "lang": "hi",
-                  "name": "Hindi"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t2_tam.opus",
-                  "default": false,
-                  "lang": "ta",
-                  "name": "Tamil"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t3_tel.opus",
-                  "default": false,
-                  "lang": "te",
-                  "name": "Telugu"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t4_eng.opus",
-                  "default": false,
-                  "lang": "en",
-                  "name": "English"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t5_jpn.opus",
-                  "default": false,
-                  "lang": "ja",
-                  "name": "Japanese"
-                }
-              ]
-            },
-            "480p": {
-              "tracks": [
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t1_hin.ogg",
-                  "default": true,
-                  "lang": "hi",
-                  "name": "Hindi"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t2_tam.opus",
-                  "default": false,
-                  "lang": "ta",
-                  "name": "Tamil"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t3_tel.opus",
-                  "default": false,
-                  "lang": "te",
-                  "name": "Telugu"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t4_eng.opus",
-                  "default": false,
-                  "lang": "en",
-                  "name": "English"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t5_jpn.opus",
-                  "default": false,
-                  "lang": "ja",
-                  "name": "Japanese"
-                }
-              ]
-            },
-            "720p": {
-              "tracks": [
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t1_hin.ogg",
-                  "default": true,
-                  "lang": "hi",
-                  "name": "Hindi"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t2_tam.opus",
-                  "default": false,
-                  "lang": "ta",
-                  "name": "Tamil"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t3_tel.opus",
-                  "default": false,
-                  "lang": "te",
-                  "name": "Telugu"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t4_eng.opus",
-                  "default": false,
-                  "lang": "en",
-                  "name": "English"
-                },
-                {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t5_jpn.opus",
-                  "default": false,
-                  "lang": "ja",
-                  "name": "Japanese"
-                }
-              ]
-            }
-          },
-          "subtitles": {
-            "en": {
-              "format": "vtt",
-              "label": "English",
-              "lang": "en",
-              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E2_en.vtt"
-            },
-            "en2": {
-              "format": "vtt",
-              "label": "English 2",
-              "lang": "en",
-              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E2_en2.vtt"
-            },
-            "hi": {
-              "format": "vtt",
-              "label": "Hindi",
-              "lang": "hi",
-              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E2_hi.vtt"
-            }
-          }
-        },
-        {
-          "episode": 3,
-          "episode_key": "E3",
-          "sources": {
-            "server1": {
-              "1080p": {
-                "url": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23786/ramparts-of-ice-S2-E3-1080p.mp4?code=d1be1ce3d135ecd1ddf52d9d",
-                "download": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23786/ramparts-of-ice-S2-E3-1080p.mp4?code=d1be1ce3d135ecd1ddf52d9d&dl=1",
-                "server": "Player",
-                "timestamp": 1792109962
-              },
-              "480p": {
-                "url": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23784/ramparts-of-ice-S2-E3-480p.mp4?code=981bfc801f77df1fffb9d026",
-                "download": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23784/ramparts-of-ice-S2-E3-480p.mp4?code=981bfc801f77df1fffb9d026&dl=1",
-                "server": "Player",
-                "timestamp": 1792109961
-              },
-              "720p": {
-                "url": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23785/ramparts-of-ice-S2-E3-720p.mp4?code=ee451813bd689aeae39e5cc6",
-                "download": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23785/ramparts-of-ice-S2-E3-720p.mp4?code=ee451813bd689aeae39e5cc6&dl=1",
-                "server": "Player",
-                "timestamp": 1792109961
-              }
-            },
-            "server2": {
-              "1080p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e03-1080p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e03-1080p.mp4",
-                "server": "Server 2",
-                "timestamp": 1792110021
-              },
-              "480p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e03-480p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e03-480p.mp4",
-                "server": "Server 2",
-                "timestamp": 1792110018
-              },
-              "720p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e03-720p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e03-720p.mp4",
-                "server": "Server 2",
-                "timestamp": 1792110019
-              }
-            }
-          },
-          "audio": {},
-          "subtitles": {}
-        },
-        {
-          "episode": 4,
-          "episode_key": "E4",
-          "sources": {
-            "server1": {},
-            "server2": {
-              "1080p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e04-1080p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e04-1080p.mp4",
-                "server": "Server 2",
-                "timestamp": 1792684361
-              },
-              "480p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e04-480p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e04-480p.mp4",
-                "server": "Server 2",
-                "timestamp": 1792684360
-              },
-              "720p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e04-720p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e04-720p.mp4",
-                "server": "Server 2",
-                "timestamp": 1792684362
-              }
-            }
-          },
-          "audio": {},
-          "subtitles": {}
-        },
-        {
-          "episode": 5,
-          "episode_key": "E5",
-          "sources": {
-            "server1": {
-              "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24871/ramparts-of-ice-S2-E5-1080p.mkv?code=80078532234c952309813322",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24871/ramparts-of-ice-S2-E5-1080p.mkv?code=80078532234c952309813322&dl=1",
-                "server": "Player",
-                "timestamp": 1793297538
-              },
-              "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24925/ramparts-of-ice-S2-E5-480p.mp4?code=2c26ce0868a5caea5ecab32b",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24925/ramparts-of-ice-S2-E5-480p.mp4?code=2c26ce0868a5caea5ecab32b&dl=1",
-                "server": "Player",
-                "timestamp": 1793297538
-              },
-              "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24926/ramparts-of-ice-S2-E5-720p.mp4?code=4a171aa53dbd66c8592485c4",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24926/ramparts-of-ice-S2-E5-720p.mp4?code=4a171aa53dbd66c8592485c4&dl=1",
-                "server": "Player",
-                "timestamp": 1793297538
-              }
-            },
-            "server2": {
-              "1080p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e05-1080p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e05-1080p.mp4",
-                "server": "Server 2",
-                "timestamp": 1793324124
-              },
-              "480p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e05-480p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e05-480p.mp4",
-                "server": "Server 2",
-                "timestamp": 1793323886
-              },
-              "720p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e05-720p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e05-720p.mp4",
-                "server": "Server 2",
-                "timestamp": 1793323891
-              }
-            }
-          },
-          "audio": {},
-          "subtitles": {}
-        },
-        {
-          "episode": 6,
-          "episode_key": "E6",
-          "sources": {
-            "server1": {
-              "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25193/the-ramparts-of-ice-S2-E6-1080p.mp4?code=1ca7e284eaa5467e4b041d74",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25193/the-ramparts-of-ice-S2-E6-1080p.mp4?code=1ca7e284eaa5467e4b041d74&dl=1",
-                "server": "Player",
-                "timestamp": 1793894801
-              },
-              "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25192/the-ramparts-of-ice-S2-E6-480p.mp4?code=96c825ea7fe767dfe830c49a",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25192/the-ramparts-of-ice-S2-E6-480p.mp4?code=96c825ea7fe767dfe830c49a&dl=1",
-                "server": "Player",
-                "timestamp": 1793894801
-              },
-              "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25194/the-ramparts-of-ice-S2-E6-720p.mp4?code=57d1c4e3b0cc8b74fcf50986",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25194/the-ramparts-of-ice-S2-E6-720p.mp4?code=57d1c4e3b0cc8b74fcf50986&dl=1",
-                "server": "Player",
-                "timestamp": 1793894801
-              }
-            },
-            "server2": {
-              "480p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e06-480p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e06-480p.mp4",
-                "server": "Server 2",
-                "timestamp": 1793894870
-              },
-              "720p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e06-720p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e06-720p.mp4",
-                "server": "Server 2",
-                "timestamp": 1793894876
-              }
-            }
-          },
-          "audio": {},
-          "subtitles": {}
-        },
-        {
-          "episode": 7,
-          "episode_key": "E7",
-          "sources": {
-            "server1": {
-              "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25729/the-ramparts-of-ice-S2-E7-1080p.mp4?code=ac137b1058c5cafe77fba11e",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25729/the-ramparts-of-ice-S2-E7-1080p.mp4?code=ac137b1058c5cafe77fba11e&dl=1",
-                "server": "Player",
-                "timestamp": 1794500106
-              },
-              "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25727/the-ramparts-of-ice-S2-E7-480p.mp4?code=f4a0ff8adec558dde797bdd0",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25727/the-ramparts-of-ice-S2-E7-480p.mp4?code=f4a0ff8adec558dde797bdd0&dl=1",
-                "server": "Player",
-                "timestamp": 1794500106
-              },
-              "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25728/the-ramparts-of-ice-S2-E7-720p.mp4?code=fb1e8625f8da206497f4e879",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25728/the-ramparts-of-ice-S2-E7-720p.mp4?code=fb1e8625f8da206497f4e879&dl=1",
-                "server": "Player",
-                "timestamp": 1794500106
-              }
-            },
-            "server2": {
-              "1080p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e07-1080p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e07-1080p.mp4",
-                "server": "Server 2",
-                "timestamp": 1794630305
-              },
-              "480p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e07-480p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e07-480p.mp4",
-                "server": "Server 2",
-                "timestamp": 1794630306
-              },
-              "720p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e07-720p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e07-720p.mp4",
-                "server": "Server 2",
-                "timestamp": 1794630305
-              }
-            }
-          },
-          "audio": {},
-          "subtitles": {}
-        },
-        {
-          "episode": 8,
-          "episode_key": "E8",
-          "sources": {
-            "server1": {
-              "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25962/ramparts-of-ice-S2-E8-1080p.mkv?code=03e1b7abc9d5c92ce51c8280",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25962/ramparts-of-ice-S2-E8-1080p.mkv?code=03e1b7abc9d5c92ce51c8280&dl=1",
-                "server": "Player",
-                "timestamp": 1795112216
-              },
-              "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25960/ramparts-of-ice-S2-E8-480p.mkv?code=1e07e8bf8fb873f61901e45c",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25960/ramparts-of-ice-S2-E8-480p.mkv?code=1e07e8bf8fb873f61901e45c&dl=1",
-                "server": "Player",
-                "timestamp": 1795112216
-              },
-              "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25961/ramparts-of-ice-S2-E8-720p.mkv?code=7977b73696f87c51db037587",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25961/ramparts-of-ice-S2-E8-720p.mkv?code=7977b73696f87c51db037587&dl=1",
-                "server": "Player",
-                "timestamp": 1795112216
-              }
-            },
-            "server2": {}
-          },
-          "audio": {},
-          "subtitles": {}
-        }
-      ]
-    },
-    {
-      "anime_id": "the-ramparts-of-ice",
-      "anime_title": "The Ramparts Of Ice",
-      "anime_slug": "the-ramparts-of-ice",
       "season": 1,
       "season_key": "S1",
       "episodes": [
@@ -145367,6 +145172,529 @@
               "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S1E14_hi.vtt"
             }
           }
+        }
+      ]
+    },
+    {
+      "anime_id": "the-ramparts-of-ice",
+      "anime_title": "The Ramparts Of Ice",
+      "anime_slug": "the-ramparts-of-ice",
+      "season": 2,
+      "season_key": "S2",
+      "episodes": [
+        {
+          "episode": 1,
+          "episode_key": "E1",
+          "sources": {
+            "server1": {},
+            "server2": {}
+          },
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E1_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E1_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English [Full]",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E1_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English [Full]",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E1_en3.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E1_hi.vtt"
+            }
+          }
+        },
+        {
+          "episode": 2,
+          "episode_key": "E2",
+          "sources": {
+            "server1": {},
+            "server2": {}
+          },
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-ramparts-of-ice_S2E2_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E2_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E2_en2.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-ramparts-of-ice/S2E2_hi.vtt"
+            }
+          }
+        },
+        {
+          "episode": 3,
+          "episode_key": "E3",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23786/ramparts-of-ice-S2-E3-1080p.mp4?code=d1be1ce3d135ecd1ddf52d9d",
+                "download": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23786/ramparts-of-ice-S2-E3-1080p.mp4?code=d1be1ce3d135ecd1ddf52d9d&dl=1",
+                "server": "Player",
+                "timestamp": 1792109962
+              },
+              "480p": {
+                "url": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23784/ramparts-of-ice-S2-E3-480p.mp4?code=981bfc801f77df1fffb9d026",
+                "download": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23784/ramparts-of-ice-S2-E3-480p.mp4?code=981bfc801f77df1fffb9d026&dl=1",
+                "server": "Player",
+                "timestamp": 1792109961
+              },
+              "720p": {
+                "url": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23785/ramparts-of-ice-S2-E3-720p.mp4?code=ee451813bd689aeae39e5cc6",
+                "download": "https://a65234-cb6f.h.onjrnm.link/animeverse/dl/23785/ramparts-of-ice-S2-E3-720p.mp4?code=ee451813bd689aeae39e5cc6&dl=1",
+                "server": "Player",
+                "timestamp": 1792109961
+              }
+            },
+            "server2": {
+              "1080p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e03-1080p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e03-1080p.mp4",
+                "server": "Server 2",
+                "timestamp": 1792110021
+              },
+              "480p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e03-480p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e03-480p.mp4",
+                "server": "Server 2",
+                "timestamp": 1792110018
+              },
+              "720p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e03-720p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e03-720p.mp4",
+                "server": "Server 2",
+                "timestamp": 1792110019
+              }
+            }
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 4,
+          "episode_key": "E4",
+          "sources": {
+            "server1": {},
+            "server2": {
+              "1080p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e04-1080p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e04-1080p.mp4",
+                "server": "Server 2",
+                "timestamp": 1792684361
+              },
+              "480p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e04-480p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e04-480p.mp4",
+                "server": "Server 2",
+                "timestamp": 1792684360
+              },
+              "720p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e04-720p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e04-720p.mp4",
+                "server": "Server 2",
+                "timestamp": 1792684362
+              }
+            }
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24871/ramparts-of-ice-S2-E5-1080p.mkv?code=80078532234c952309813322",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24871/ramparts-of-ice-S2-E5-1080p.mkv?code=80078532234c952309813322&dl=1",
+                "server": "Player",
+                "timestamp": 1793297538
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24925/ramparts-of-ice-S2-E5-480p.mp4?code=2c26ce0868a5caea5ecab32b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24925/ramparts-of-ice-S2-E5-480p.mp4?code=2c26ce0868a5caea5ecab32b&dl=1",
+                "server": "Player",
+                "timestamp": 1793297538
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24926/ramparts-of-ice-S2-E5-720p.mp4?code=4a171aa53dbd66c8592485c4",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/24926/ramparts-of-ice-S2-E5-720p.mp4?code=4a171aa53dbd66c8592485c4&dl=1",
+                "server": "Player",
+                "timestamp": 1793297538
+              }
+            },
+            "server2": {
+              "1080p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e05-1080p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e05-1080p.mp4",
+                "server": "Server 2",
+                "timestamp": 1793324124
+              },
+              "480p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e05-480p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e05-480p.mp4",
+                "server": "Server 2",
+                "timestamp": 1793323886
+              },
+              "720p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/ramparts-of-ice-s02e05-720p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/ramparts-of-ice-s02e05-720p.mp4",
+                "server": "Server 2",
+                "timestamp": 1793323891
+              }
+            }
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 6,
+          "episode_key": "E6",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25193/the-ramparts-of-ice-S2-E6-1080p.mp4?code=1ca7e284eaa5467e4b041d74",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25193/the-ramparts-of-ice-S2-E6-1080p.mp4?code=1ca7e284eaa5467e4b041d74&dl=1",
+                "server": "Player",
+                "timestamp": 1793894801
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25192/the-ramparts-of-ice-S2-E6-480p.mp4?code=96c825ea7fe767dfe830c49a",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25192/the-ramparts-of-ice-S2-E6-480p.mp4?code=96c825ea7fe767dfe830c49a&dl=1",
+                "server": "Player",
+                "timestamp": 1793894801
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25194/the-ramparts-of-ice-S2-E6-720p.mp4?code=57d1c4e3b0cc8b74fcf50986",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25194/the-ramparts-of-ice-S2-E6-720p.mp4?code=57d1c4e3b0cc8b74fcf50986&dl=1",
+                "server": "Player",
+                "timestamp": 1793894801
+              }
+            },
+            "server2": {
+              "480p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e06-480p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e06-480p.mp4",
+                "server": "Server 2",
+                "timestamp": 1793894870
+              },
+              "720p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e06-720p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e06-720p.mp4",
+                "server": "Server 2",
+                "timestamp": 1793894876
+              }
+            }
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 7,
+          "episode_key": "E7",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25729/the-ramparts-of-ice-S2-E7-1080p.mp4?code=ac137b1058c5cafe77fba11e",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25729/the-ramparts-of-ice-S2-E7-1080p.mp4?code=ac137b1058c5cafe77fba11e&dl=1",
+                "server": "Player",
+                "timestamp": 1794500106
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25727/the-ramparts-of-ice-S2-E7-480p.mp4?code=f4a0ff8adec558dde797bdd0",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25727/the-ramparts-of-ice-S2-E7-480p.mp4?code=f4a0ff8adec558dde797bdd0&dl=1",
+                "server": "Player",
+                "timestamp": 1794500106
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25728/the-ramparts-of-ice-S2-E7-720p.mp4?code=fb1e8625f8da206497f4e879",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25728/the-ramparts-of-ice-S2-E7-720p.mp4?code=fb1e8625f8da206497f4e879&dl=1",
+                "server": "Player",
+                "timestamp": 1794500106
+              }
+            },
+            "server2": {
+              "1080p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e07-1080p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e07-1080p.mp4",
+                "server": "Server 2",
+                "timestamp": 1794630305
+              },
+              "480p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e07-480p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e07-480p.mp4",
+                "server": "Server 2",
+                "timestamp": 1794630306
+              },
+              "720p": {
+                "url": "https://streamer.ayushkum099766.workers.dev/watch/the-ramparts-of-ice-s02e07-720p.mp4",
+                "download": "https://streamer.ayushkum099766.workers.dev/download/the-ramparts-of-ice-s02e07-720p.mp4",
+                "server": "Server 2",
+                "timestamp": 1794630305
+              }
+            }
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 8,
+          "episode_key": "E8",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25962/ramparts-of-ice-S2-E8-1080p.mkv?code=03e1b7abc9d5c92ce51c8280",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25962/ramparts-of-ice-S2-E8-1080p.mkv?code=03e1b7abc9d5c92ce51c8280&dl=1",
+                "server": "Player",
+                "timestamp": 1795112216
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25960/ramparts-of-ice-S2-E8-480p.mkv?code=1e07e8bf8fb873f61901e45c",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25960/ramparts-of-ice-S2-E8-480p.mkv?code=1e07e8bf8fb873f61901e45c&dl=1",
+                "server": "Player",
+                "timestamp": 1795112216
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25961/ramparts-of-ice-S2-E8-720p.mkv?code=7977b73696f87c51db037587",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25961/ramparts-of-ice-S2-E8-720p.mkv?code=7977b73696f87c51db037587&dl=1",
+                "server": "Player",
+                "timestamp": 1795112216
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -169425,6 +169753,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26076/the-detective-is-already-dead-S2-E5-1080p.mp4?code=c12265f7b08e07a8259dfe05",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26076/the-detective-is-already-dead-S2-E5-1080p.mp4?code=c12265f7b08e07a8259dfe05&dl=1",
+                "server": "Player",
+                "timestamp": 1795707469
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26074/the-detective-is-already-dead-S2-E5-480p.mp4?code=46da271bbc3d398b55a436fe",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26074/the-detective-is-already-dead-S2-E5-480p.mp4?code=46da271bbc3d398b55a436fe&dl=1",
+                "server": "Player",
+                "timestamp": 1795707469
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26075/the-detective-is-already-dead-S2-E5-720p.mp4?code=fa3e71127fd9db7829a5e46c",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26075/the-detective-is-already-dead-S2-E5-720p.mp4?code=fa3e71127fd9db7829a5e46c&dl=1",
+                "server": "Player",
+                "timestamp": 1795707469
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -172101,22 +172458,22 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25233/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-1080p.mp4?code=6c8dbf4adac4dcd9bd6a5595",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25233/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-1080p.mp4?code=6c8dbf4adac4dcd9bd6a5595&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26082/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-1080p.mkv?code=1d9daa817dd56182fc8497ab",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26082/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-1080p.mkv?code=1d9daa817dd56182fc8497ab&dl=1",
                 "server": "Player",
-                "timestamp": 1793928640
+                "timestamp": 1795707986
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25231/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-480p.mp4?code=1e265715764493e8dd5abfa1",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25231/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-480p.mp4?code=1e265715764493e8dd5abfa1&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26080/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-480p.mkv?code=edd67f7ad2b24898f3ef732d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26080/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-480p.mkv?code=edd67f7ad2b24898f3ef732d&dl=1",
                 "server": "Player",
-                "timestamp": 1793928639
+                "timestamp": 1795707986
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25232/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-720p.mp4?code=4960f55819c706f2ae786bba",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25232/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-720p.mp4?code=4960f55819c706f2ae786bba&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26081/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-720p.mkv?code=3674f4fe99b1ebe0f63022a4",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26081/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E11-720p.mkv?code=3674f4fe99b1ebe0f63022a4&dl=1",
                 "server": "Player",
-                "timestamp": 1793928639
+                "timestamp": 1795707986
               }
             },
             "server2": {
@@ -172259,22 +172616,22 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25236/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-1080p.mp4?code=1a5471b087b6fd49eb41b8ab",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25236/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-1080p.mp4?code=1a5471b087b6fd49eb41b8ab&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26085/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-1080p.mkv?code=7e361a818d7d62fd4117ea24",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26085/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-1080p.mkv?code=7e361a818d7d62fd4117ea24&dl=1",
                 "server": "Player",
-                "timestamp": 1793928654
+                "timestamp": 1795708020
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25234/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-480p.mp4?code=823046154f0e2387d8a24f7c",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25234/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-480p.mp4?code=823046154f0e2387d8a24f7c&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26083/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-480p.mkv?code=cd7bb1ee6cac3764ca5a0e36",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26083/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-480p.mkv?code=cd7bb1ee6cac3764ca5a0e36&dl=1",
                 "server": "Player",
-                "timestamp": 1793928654
+                "timestamp": 1795708020
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25235/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-720p.mp4?code=c1702aba728e15a976bf57f4",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25235/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-720p.mp4?code=c1702aba728e15a976bf57f4&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26084/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-720p.mkv?code=5f4059e6994a8361e24c4098",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26084/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E12-720p.mkv?code=5f4059e6994a8361e24c4098&dl=1",
                 "server": "Player",
-                "timestamp": 1793928654
+                "timestamp": 1795708020
               }
             },
             "server2": {
@@ -172307,22 +172664,22 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25239/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-1080p.mp4?code=678c0ec35b62ab3d521b32c1",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25239/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-1080p.mp4?code=678c0ec35b62ab3d521b32c1&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26088/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-1080p.mkv?code=09fe445dbcadb6030c0e26a4",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26088/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-1080p.mkv?code=09fe445dbcadb6030c0e26a4&dl=1",
                 "server": "Player",
-                "timestamp": 1793928669
+                "timestamp": 1795708076
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25237/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-480p.mp4?code=ed871a2507e81b480d045819",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25237/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-480p.mp4?code=ed871a2507e81b480d045819&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26086/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-480p.mkv?code=aaf89109f7a8139f933d159d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26086/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-480p.mkv?code=aaf89109f7a8139f933d159d&dl=1",
                 "server": "Player",
-                "timestamp": 1793928669
+                "timestamp": 1795708076
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25238/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-720p.mp4?code=347e8d173b306d8a562cd2a3",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25238/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-720p.mp4?code=347e8d173b306d8a562cd2a3&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26087/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-720p.mkv?code=9b1cc0037253cc30daf8bfdb",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26087/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E13-720p.mkv?code=9b1cc0037253cc30daf8bfdb&dl=1",
                 "server": "Player",
-                "timestamp": 1793928669
+                "timestamp": 1795708076
               }
             },
             "server2": {
@@ -172355,22 +172712,22 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25248/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-1080p.mp4?code=194efb6d9ff77e0adf156110",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25248/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-1080p.mp4?code=194efb6d9ff77e0adf156110&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26091/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-1080p.mkv?code=f1119419915cf2f3341900a3",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26091/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-1080p.mkv?code=f1119419915cf2f3341900a3&dl=1",
                 "server": "Player",
-                "timestamp": 1793928825
+                "timestamp": 1795708110
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25240/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-480p.mp4?code=113e6308936056abb32f24bc",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25240/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-480p.mp4?code=113e6308936056abb32f24bc&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26089/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-480p.mkv?code=15b8bece25f4622bcca37577",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26089/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-480p.mkv?code=15b8bece25f4622bcca37577&dl=1",
                 "server": "Player",
-                "timestamp": 1793928825
+                "timestamp": 1795708110
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25241/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-720p.mp4?code=d16863115dd76099d528288f",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25241/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-720p.mp4?code=d16863115dd76099d528288f&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26090/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-720p.mkv?code=3c16bad59ee23b9046e4c9d7",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26090/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E14-720p.mkv?code=3c16bad59ee23b9046e4c9d7&dl=1",
                 "server": "Player",
-                "timestamp": 1793928825
+                "timestamp": 1795708110
               }
             },
             "server2": {
@@ -172403,22 +172760,22 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25244/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-1080p.mp4?code=407028de82e5c4f57de091ae",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25244/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-1080p.mp4?code=407028de82e5c4f57de091ae&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26094/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-1080p.mkv?code=98040226b5d192f4af714856",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26094/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-1080p.mkv?code=98040226b5d192f4af714856&dl=1",
                 "server": "Player",
-                "timestamp": 1793928687
+                "timestamp": 1795708146
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25242/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-480p.mp4?code=a162f7b0cd2cbe555198f39d",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25242/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-480p.mp4?code=a162f7b0cd2cbe555198f39d&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26092/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-480p.mkv?code=8f09771bff4e6cf045cac719",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26092/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-480p.mkv?code=8f09771bff4e6cf045cac719&dl=1",
                 "server": "Player",
-                "timestamp": 1793928687
+                "timestamp": 1795708145
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25243/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-720p.mp4?code=ad10860e67574850221ce60c",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25243/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-720p.mp4?code=ad10860e67574850221ce60c&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26093/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-720p.mkv?code=eb85701c44189a4e01ce1cae",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26093/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E15-720p.mkv?code=eb85701c44189a4e01ce1cae&dl=1",
                 "server": "Player",
-                "timestamp": 1793928687
+                "timestamp": 1795708145
               }
             },
             "server2": {
@@ -172451,22 +172808,22 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25247/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-1080p.mp4?code=3a20d88c2555a8c45a94afa2",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25247/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-1080p.mp4?code=3a20d88c2555a8c45a94afa2&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26097/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-1080p.mkv?code=815cbd38f492f5b679cc0809",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26097/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-1080p.mkv?code=815cbd38f492f5b679cc0809&dl=1",
                 "server": "Player",
-                "timestamp": 1793928758
+                "timestamp": 1795708159
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25245/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-480p.mp4?code=188c74b6ed5c82f94c6ba040",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25245/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-480p.mp4?code=188c74b6ed5c82f94c6ba040&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26095/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-480p.mkv?code=00be9564a585d6de7d9deb36",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26095/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-480p.mkv?code=00be9564a585d6de7d9deb36&dl=1",
                 "server": "Player",
-                "timestamp": 1793928758
+                "timestamp": 1795708159
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25246/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-720p.mp4?code=60e4ba325025944e2737fd34",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25246/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-720p.mp4?code=60e4ba325025944e2737fd34&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26096/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-720p.mkv?code=065ed1ab5ffca09bcf2c59b3",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26096/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E16-720p.mkv?code=065ed1ab5ffca09bcf2c59b3&dl=1",
                 "server": "Player",
-                "timestamp": 1793928758
+                "timestamp": 1795708159
               }
             },
             "server2": {
@@ -172499,22 +172856,22 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25736/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-1080p.mp4?code=bfeaaf07cbc52621241c7219",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25736/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-1080p.mp4?code=bfeaaf07cbc52621241c7219&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26100/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-1080p.mkv?code=0b4bd847bab71a2d99ffed3e",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26100/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-1080p.mkv?code=0b4bd847bab71a2d99ffed3e&dl=1",
                 "server": "Player",
-                "timestamp": 1794501493
+                "timestamp": 1795708182
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25735/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-480p.mp4?code=6f3fa1e6d25ebed9163a9424",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25735/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-480p.mp4?code=6f3fa1e6d25ebed9163a9424&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26098/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-480p.mkv?code=b833d4db515ed7baed96d521",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26098/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-480p.mkv?code=b833d4db515ed7baed96d521&dl=1",
                 "server": "Player",
-                "timestamp": 1794501493
+                "timestamp": 1795708182
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25734/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-720p.mp4?code=38b6ac11f069ab877266abd0",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25734/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-720p.mp4?code=38b6ac11f069ab877266abd0&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26099/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-720p.mkv?code=90ab0b6a9f2297a3ea19949a",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26099/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E17-720p.mkv?code=90ab0b6a9f2297a3ea19949a&dl=1",
                 "server": "Player",
-                "timestamp": 1794501493
+                "timestamp": 1795708182
               }
             },
             "server2": {
@@ -172547,22 +172904,51 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25965/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-1080p.mp4?code=3f8543d3c6d9bcffbf786d74",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25965/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-1080p.mp4?code=3f8543d3c6d9bcffbf786d74&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26103/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-1080p.mkv?code=f8f1528f446b2cd15a598e35",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26103/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-1080p.mkv?code=f8f1528f446b2cd15a598e35&dl=1",
                 "server": "Player",
-                "timestamp": 1795112269
+                "timestamp": 1795708202
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25963/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-480p.mp4?code=1ebc2ef668fbb3978a0ff919",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25963/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-480p.mp4?code=1ebc2ef668fbb3978a0ff919&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26101/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-480p.mkv?code=88b94db887b22bb4d7269ea1",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26101/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-480p.mkv?code=88b94db887b22bb4d7269ea1&dl=1",
                 "server": "Player",
-                "timestamp": 1795112269
+                "timestamp": 1795708202
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25964/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-720p.mp4?code=69e586204fda2bf403c96649",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25964/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-720p.mp4?code=69e586204fda2bf403c96649&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26102/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-720p.mkv?code=e4020ac1bad3aef713902e4b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26102/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E18-720p.mkv?code=e4020ac1bad3aef713902e4b&dl=1",
                 "server": "Player",
-                "timestamp": 1795112269
+                "timestamp": 1795708202
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 19,
+          "episode_key": "E19",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26079/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E19-1080p.mp4?code=77cf068af9140d92f88f984e",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26079/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E19-1080p.mp4?code=77cf068af9140d92f88f984e&dl=1",
+                "server": "Player",
+                "timestamp": 1795707857
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26077/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E19-480p.mp4?code=df08465cf3819d1d7af8b218",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26077/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E19-480p.mp4?code=df08465cf3819d1d7af8b218&dl=1",
+                "server": "Player",
+                "timestamp": 1795707856
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26078/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E19-720p.mp4?code=94aa5cf2ed91e17e23dc3833",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26078/the-exiled-heavy-knight-knows-how-to-game-the-system-S1-E19-720p.mp4?code=94aa5cf2ed91e17e23dc3833&dl=1",
+                "server": "Player",
+                "timestamp": 1795707857
               }
             },
             "server2": {}
@@ -176836,6 +177222,35 @@
                 "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26042/the-iceblade-sorcerer-shall-rule-the-world-S2-E4-720p.mkv?code=0cee83cf4071089206679c89&dl=1",
                 "server": "Player",
                 "timestamp": 1795322068
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26151/the-iceblade-sorcerer-shall-rule-the-world-S2-E5-1080p.mkv?code=febfe2249bf29f05727aea1c",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26151/the-iceblade-sorcerer-shall-rule-the-world-S2-E5-1080p.mkv?code=febfe2249bf29f05727aea1c&dl=1",
+                "server": "Player",
+                "timestamp": 1795711748
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26149/the-iceblade-sorcerer-shall-rule-the-world-S2-E5-480p.mkv?code=6f53af34ca3f53af43c71474",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26149/the-iceblade-sorcerer-shall-rule-the-world-S2-E5-480p.mkv?code=6f53af34ca3f53af43c71474&dl=1",
+                "server": "Player",
+                "timestamp": 1795711748
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26150/the-iceblade-sorcerer-shall-rule-the-world-S2-E5-720p.mkv?code=fba9a1d55d9ea0e59d9ebc59",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26150/the-iceblade-sorcerer-shall-rule-the-world-S2-E5-720p.mkv?code=fba9a1d55d9ea0e59d9ebc59&dl=1",
+                "server": "Player",
+                "timestamp": 1795711748
               }
             },
             "server2": {}
@@ -200801,6 +201216,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795728093267,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 316,
+      "movies": 242,
+      "episodeGroups": 373,
+      "timestamp": "2026-11-26T21:21:33.267Z"
+    },
+    {
       "id": 1795694403902,
       "source": "AnimeVerse",
       "status": "success",
@@ -200954,5 +201378,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-26T12:00:03.902Z"
+  "updated_at": "2026-11-26T21:21:33.267Z"
 }
