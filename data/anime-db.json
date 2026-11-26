@@ -1497,6 +1497,21 @@
       "category": "latest"
     },
     {
+      "id": "fool-night",
+      "title": "Fool Night",
+      "slug": "fool-night",
+      "poster": "https://image.tmdb.org/t/p/w780/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
+      "synopsis": "",
+      "genre": "",
+      "rating": "N/A",
+      "year": null,
+      "episode_count": 0,
+      "subDub": "hindi_dub",
+      "addedAt": 1795692409136,
+      "source": "AnimeVerse",
+      "category": "latest"
+    },
+    {
       "id": "frieren-beyond-journeys-end",
       "title": "Frieren Beyond Journeys End",
       "slug": "frieren-beyond-journeys-end",
@@ -5266,6 +5281,16 @@
       "language": null,
       "rating": "6.0",
       "timestamp": 1790939094859,
+      "source": "AnimeVerse"
+    },
+    {
+      "id": "fool-night",
+      "title": "Fool Night",
+      "poster": "https://image.tmdb.org/t/p/w780/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
+      "category": "latest",
+      "language": "hindi_dub",
+      "rating": "N/A",
+      "timestamp": 1795692409136,
       "source": "AnimeVerse"
     },
     {
@@ -66028,6 +66053,73 @@
                 "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26036/firefly-wedding-S1-E4-720p.mp4?code=deab20898544d47fe9d55395&dl=1",
                 "server": "Player",
                 "timestamp": 1795321941
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        }
+      ]
+    },
+    {
+      "anime_id": "fool-night",
+      "anime_title": "Fool Night",
+      "anime_slug": "fool-night",
+      "season": 1,
+      "season_key": "S1",
+      "episodes": [
+        {
+          "episode": 1,
+          "episode_key": "E1",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26064/fool-night-S1-E1-1080p.mp4?code=d5bdc53f58db0f9b4a5736c3",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26064/fool-night-S1-E1-1080p.mp4?code=d5bdc53f58db0f9b4a5736c3&dl=1",
+                "server": "Player",
+                "timestamp": 1795692651
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26062/fool-night-S1-E1-480p.mp4?code=82002957a9f3fcca3d50126b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26062/fool-night-S1-E1-480p.mp4?code=82002957a9f3fcca3d50126b&dl=1",
+                "server": "Player",
+                "timestamp": 1795692651
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26063/fool-night-S1-E1-720p.mp4?code=165c1e850421c1314774aa0f",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26063/fool-night-S1-E1-720p.mp4?code=165c1e850421c1314774aa0f&dl=1",
+                "server": "Player",
+                "timestamp": 1795692651
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 2,
+          "episode_key": "E2",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26067/fool-night-S1-E2-1080p.mp4?code=bde18d4fff5dfab6dd4613c6",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26067/fool-night-S1-E2-1080p.mp4?code=bde18d4fff5dfab6dd4613c6&dl=1",
+                "server": "Player",
+                "timestamp": 1795692790
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26065/fool-night-S1-E2-480p.mp4?code=d5f4bf50a49d9bd3f0de756c",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26065/fool-night-S1-E2-480p.mp4?code=d5f4bf50a49d9bd3f0de756c&dl=1",
+                "server": "Player",
+                "timestamp": 1795692790
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26066/fool-night-S1-E2-720p.mp4?code=3b09613cd9f6ad4af1a1cde5",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26066/fool-night-S1-E2-720p.mp4?code=3b09613cd9f6ad4af1a1cde5&dl=1",
+                "server": "Player",
+                "timestamp": 1795692790
               }
             },
             "server2": {}
@@ -175118,6 +175210,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 11,
+          "episode_key": "E11",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26061/the-frontier-lord-begins-with-zero-subjects-S1-E11-1080p.mp4?code=f91ef566f705bde58261d2e2",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26061/the-frontier-lord-begins-with-zero-subjects-S1-E11-1080p.mp4?code=f91ef566f705bde58261d2e2&dl=1",
+                "server": "Player",
+                "timestamp": 1795681112
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26059/the-frontier-lord-begins-with-zero-subjects-S1-E11-480p.mp4?code=77948624fe0859e1ae4a0c3b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26059/the-frontier-lord-begins-with-zero-subjects-S1-E11-480p.mp4?code=77948624fe0859e1ae4a0c3b&dl=1",
+                "server": "Player",
+                "timestamp": 1795681111
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26060/the-frontier-lord-begins-with-zero-subjects-S1-E11-720p.mp4?code=a087b1242efa03d29f87bd84",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26060/the-frontier-lord-begins-with-zero-subjects-S1-E11-720p.mp4?code=a087b1242efa03d29f87bd84&dl=1",
+                "server": "Player",
+                "timestamp": 1795681112
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -200680,6 +200801,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795694403902,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 316,
+      "movies": 242,
+      "episodeGroups": 373,
+      "timestamp": "2026-11-26T12:00:03.902Z"
+    },
+    {
       "id": 1795601124944,
       "source": "AnimeVerse",
       "status": "success",
@@ -200824,5 +200954,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-25T10:05:24.944Z"
+  "updated_at": "2026-11-26T12:00:03.902Z"
 }
