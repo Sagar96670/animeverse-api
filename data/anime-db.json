@@ -66107,6 +66107,73 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26172/firefly-wedding-S1-E5-1080p.mkv?code=cf84760dc8cdeb0209dd728d",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26172/firefly-wedding-S1-E5-1080p.mkv?code=cf84760dc8cdeb0209dd728d&dl=1",
+                "server": "Player",
+                "timestamp": 1795796467
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26170/firefly-wedding-S1-E5-480p.mkv?code=0a82ad50d821242b6fabd5ae",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26170/firefly-wedding-S1-E5-480p.mkv?code=0a82ad50d821242b6fabd5ae&dl=1",
+                "server": "Player",
+                "timestamp": 1795796467
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26171/firefly-wedding-S1-E5-720p.mkv?code=46e546cfea9ecd6b893e53d5",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26171/firefly-wedding-S1-E5-720p.mkv?code=46e546cfea9ecd6b893e53d5&dl=1",
+                "server": "Player",
+                "timestamp": 1795796467
+              }
+            },
+            "server2": {}
+          },
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/firefly-wedding_S1E5_t1_hin.aac",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/firefly-wedding_S1E5_t1_hin.aac",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/firefly-wedding_S1E5_t1_hin.aac",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "und": {
+              "format": "vtt",
+              "label": "Anime_Central_0",
+              "lang": "und",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/firefly-wedding/S1E5_und.vtt"
+            }
+          }
         }
       ]
     },
@@ -167759,6 +167826,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 6,
+          "episode_key": "E6",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26169/the-apothecary-daires-S3-E6-1080p.mp4?code=bc90abc25bd7525916091704",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26169/the-apothecary-daires-S3-E6-1080p.mp4?code=bc90abc25bd7525916091704&dl=1",
+                "server": "Player",
+                "timestamp": 1795793010
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26167/the-apothecary-daires-S3-E6-480p.mp4?code=c2c2b390a7f88dedd9c15868",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26167/the-apothecary-daires-S3-E6-480p.mp4?code=c2c2b390a7f88dedd9c15868&dl=1",
+                "server": "Player",
+                "timestamp": 1795793010
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26168/the-apothecary-daires-S3-E6-720p.mp4?code=8dc2bc0e96a2039e188beb48",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26168/the-apothecary-daires-S3-E6-720p.mp4?code=8dc2bc0e96a2039e188beb48&dl=1",
+                "server": "Player",
+                "timestamp": 1795793010
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -203350,6 +203446,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795817565329,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 316,
+      "movies": 242,
+      "episodeGroups": 373,
+      "timestamp": "2026-11-27T22:12:45.329Z"
+    },
+    {
       "id": 1795785920150,
       "source": "AnimeVerse",
       "status": "success",
@@ -203521,5 +203626,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-27T13:25:20.150Z"
+  "updated_at": "2026-11-27T22:12:45.329Z"
 }
