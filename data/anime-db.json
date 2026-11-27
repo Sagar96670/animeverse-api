@@ -52308,6 +52308,35 @@
               "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/devils-crest/S1E4_hi2.vtt"
             }
           }
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26166/devils-crest-S1-E5-1080p.mp4?code=e6e63a3bfd91815f19c33fbc",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26166/devils-crest-S1-E5-1080p.mp4?code=e6e63a3bfd91815f19c33fbc&dl=1",
+                "server": "Player",
+                "timestamp": 1795785244
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26164/devils-crest-S1-E5-480p.mp4?code=35ed66067be00e5922e36fa3",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26164/devils-crest-S1-E5-480p.mp4?code=35ed66067be00e5922e36fa3&dl=1",
+                "server": "Player",
+                "timestamp": 1795785244
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26165/devils-crest-S1-E5-720p.mp4?code=149e260cad0b2e8e3721d9da",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26165/devils-crest-S1-E5-720p.mp4?code=149e260cad0b2e8e3721d9da&dl=1",
+                "server": "Player",
+                "timestamp": 1795785244
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -65998,44 +66027,25 @@
           "sources": {
             "server1": {
               "1080p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25304/firefly-wedding-S1-E2-1080p.mp4?code=e9efae0f9ae2ae7afe6de5b1",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25304/firefly-wedding-S1-E2-1080p.mp4?code=e9efae0f9ae2ae7afe6de5b1&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26153/firefly-wedding-S1-E2-1080p.mp4?code=c50ffeb57e85870f8d311752",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26153/firefly-wedding-S1-E2-1080p.mp4?code=c50ffeb57e85870f8d311752&dl=1",
                 "server": "Player",
-                "timestamp": 1793987977
+                "timestamp": 1795754580
               },
               "480p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25320/firefly-wedding-S1-E2-480p.mp4?code=c782c6b71be3a0ce3490204f",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25320/firefly-wedding-S1-E2-480p.mp4?code=c782c6b71be3a0ce3490204f&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26152/firefly-wedding-S1-E2-480p.mp4?code=1b54d8b80fd3c3942fa42dce",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26152/firefly-wedding-S1-E2-480p.mp4?code=1b54d8b80fd3c3942fa42dce&dl=1",
                 "server": "Player",
-                "timestamp": 1793987977
+                "timestamp": 1795754580
               },
               "720p": {
-                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25303/firefly-wedding-S1-E2-720p.mp4?code=2500b3a603107422e7520194",
-                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/25303/firefly-wedding-S1-E2-720p.mp4?code=2500b3a603107422e7520194&dl=1",
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26154/firefly-wedding-S1-E2-720p.mp4?code=721bd379e638f31befc278f1",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26154/firefly-wedding-S1-E2-720p.mp4?code=721bd379e638f31befc278f1&dl=1",
                 "server": "Player",
-                "timestamp": 1793987977
+                "timestamp": 1795754580
               }
             },
-            "server2": {
-              "1080p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/firefly-wedding-s01e02-1080p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/firefly-wedding-s01e02-1080p.mp4",
-                "server": "Server 2",
-                "timestamp": 1793988442
-              },
-              "480p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/firefly-wedding-s01e02-480p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/firefly-wedding-s01e02-480p.mp4",
-                "server": "Server 2",
-                "timestamp": 1793988298
-              },
-              "720p": {
-                "url": "https://streamer.ayushkum099766.workers.dev/watch/firefly-wedding-s01e02-720p.mp4",
-                "download": "https://streamer.ayushkum099766.workers.dev/download/firefly-wedding-s01e02-720p.mp4",
-                "server": "Server 2",
-                "timestamp": 1793988298
-              }
-            }
+            "server2": {}
           },
           "audio": {},
           "subtitles": {}
@@ -66133,8 +66143,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E1_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E1_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E1_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E1_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E1_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E1_hi.vtt"
+            }
+          }
         },
         {
           "episode": 2,
@@ -66162,8 +66306,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E2_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E2_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E2_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E2_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E2_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E2_hi.vtt"
+            }
+          }
         },
         {
           "episode": 3,
@@ -66191,8 +66469,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E3_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E3_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E3_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E3_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E3_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E3_hi.vtt"
+            }
+          }
         },
         {
           "episode": 4,
@@ -66220,8 +66632,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E4_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E4_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E4_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E4_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E4_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E4_hi.vtt"
+            }
+          }
         },
         {
           "episode": 5,
@@ -66249,8 +66795,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E5_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E5_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E5_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E5_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E5_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E5_hi.vtt"
+            }
+          }
         },
         {
           "episode": 6,
@@ -66278,8 +66958,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E6_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E6_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E6_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E6_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E6_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E6_hi.vtt"
+            }
+          }
         },
         {
           "episode": 7,
@@ -66307,8 +67121,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E7_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E7_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E7_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E7_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E7_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E7_hi.vtt"
+            }
+          }
         },
         {
           "episode": 8,
@@ -66336,8 +67284,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E8_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E8_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E8_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E8_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E8_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E8_hi.vtt"
+            }
+          }
         },
         {
           "episode": 9,
@@ -66365,8 +67447,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E9_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E9_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E9_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E9_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E9_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E9_hi.vtt"
+            }
+          }
         },
         {
           "episode": 10,
@@ -66394,8 +67610,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E10_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E10_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E10_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E10_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E10_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E10_hi.vtt"
+            }
+          }
         },
         {
           "episode": 11,
@@ -66423,8 +67773,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E11_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E11_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E11_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E11_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E11_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E11_hi.vtt"
+            }
+          }
         },
         {
           "episode": 12,
@@ -66452,8 +67936,142 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t2_tam.opus",
+                  "default": false,
+                  "lang": "ta",
+                  "name": "Tamil"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t3_tel.opus",
+                  "default": false,
+                  "lang": "te",
+                  "name": "Telugu"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t4_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/fool-night_S1E12_t5_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E12_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English 2",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E12_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English 3",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E12_en3.vtt"
+            },
+            "en4": {
+              "format": "vtt",
+              "label": "SDH",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E12_en4.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/fool-night/S1E12_hi.vtt"
+            }
+          }
         }
       ]
     },
@@ -109701,6 +111319,35 @@
                 "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26024/mushoku-tensei-jobless-reincarnation-S3-E13-720p.mp4?code=b9e1cc37257122c94ee9cf04&dl=1",
                 "server": "Player",
                 "timestamp": 1795245801
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 14,
+          "episode_key": "E14",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26160/mushoku-tensei-jobless-reincarnation-S3-E14-1080p.mkv?code=412ca4fd2aad6391f8229767",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26160/mushoku-tensei-jobless-reincarnation-S3-E14-1080p.mkv?code=412ca4fd2aad6391f8229767&dl=1",
+                "server": "Player",
+                "timestamp": 1795763646
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26158/mushoku-tensei-jobless-reincarnation-S3-E14-480p.mkv?code=b961319b988e0499bc675205",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26158/mushoku-tensei-jobless-reincarnation-S3-E14-480p.mkv?code=b961319b988e0499bc675205&dl=1",
+                "server": "Player",
+                "timestamp": 1795763645
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26159/mushoku-tensei-jobless-reincarnation-S3-E14-720p.mkv?code=41ee874b1eaa417d8b3b9773",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26159/mushoku-tensei-jobless-reincarnation-S3-E14-720p.mkv?code=41ee874b1eaa417d8b3b9773&dl=1",
+                "server": "Player",
+                "timestamp": 1795763645
               }
             },
             "server2": {}
@@ -159426,6 +161073,35 @@
           },
           "audio": {},
           "subtitles": {}
+        },
+        {
+          "episode": 11,
+          "episode_key": "E11",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26163/steel-ball-run-jojos-bizarre-adventure-S6-E11-1080p.mp4?code=199c9ba369c34ab15d6cac01",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26163/steel-ball-run-jojos-bizarre-adventure-S6-E11-1080p.mp4?code=199c9ba369c34ab15d6cac01&dl=1",
+                "server": "Player",
+                "timestamp": 1795773696
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26161/steel-ball-run-jojos-bizarre-adventure-S6-E11-480p.mp4?code=714e4cca09b4b517df7aa7b3",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26161/steel-ball-run-jojos-bizarre-adventure-S6-E11-480p.mp4?code=714e4cca09b4b517df7aa7b3&dl=1",
+                "server": "Player",
+                "timestamp": 1795773696
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26162/steel-ball-run-jojos-bizarre-adventure-S6-E11-720p.mp4?code=530f308ae690a600b0fc2780",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26162/steel-ball-run-jojos-bizarre-adventure-S6-E11-720p.mp4?code=530f308ae690a600b0fc2780&dl=1",
+                "server": "Player",
+                "timestamp": 1795773696
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
         }
       ]
     },
@@ -169780,8 +171456,100 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-detective-is-already-dead_S2E5_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-detective-is-already-dead_S2E5_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-detective-is-already-dead_S2E5_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-detective-is-already-dead_S2E5_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-detective-is-already-dead_S2E5_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-detective-is-already-dead_S2E5_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-detective-is-already-dead_S2E5_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-detective-is-already-dead_S2E5_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-detective-is-already-dead_S2E5_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-detective-is-already-dead/S2E5_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English Dubtitle",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-detective-is-already-dead/S2E5_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-detective-is-already-dead/S2E5_en3.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-detective-is-already-dead/S2E5_hi.vtt"
+            }
+          }
         }
       ]
     },
@@ -177032,19 +178800,19 @@
             "1080p": {
               "tracks": [
                 {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t1_hin.ogg",
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t1_hin.ogg",
                   "default": true,
                   "lang": "hi",
                   "name": "Hindi"
                 },
                 {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t2_eng.opus",
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t2_eng.opus",
                   "default": false,
                   "lang": "en",
                   "name": "English"
                 },
                 {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t3_jpn.opus",
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t3_jpn.opus",
                   "default": false,
                   "lang": "ja",
                   "name": "Japanese"
@@ -177054,19 +178822,19 @@
             "480p": {
               "tracks": [
                 {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t1_hin.ogg",
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t1_hin.ogg",
                   "default": true,
                   "lang": "hi",
                   "name": "Hindi"
                 },
                 {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t2_eng.opus",
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t2_eng.opus",
                   "default": false,
                   "lang": "en",
                   "name": "English"
                 },
                 {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t3_jpn.opus",
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t3_jpn.opus",
                   "default": false,
                   "lang": "ja",
                   "name": "Japanese"
@@ -177076,19 +178844,19 @@
             "720p": {
               "tracks": [
                 {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t1_hin.ogg",
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t1_hin.ogg",
                   "default": true,
                   "lang": "hi",
                   "name": "Hindi"
                 },
                 {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t2_eng.opus",
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t2_eng.opus",
                   "default": false,
                   "lang": "en",
                   "name": "English"
                 },
                 {
-                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-10/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t3_jpn.opus",
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E1_t3_jpn.opus",
                   "default": false,
                   "lang": "ja",
                   "name": "Japanese"
@@ -177172,6 +178940,102 @@
           }
         },
         {
+          "episode": 2,
+          "episode_key": "E2",
+          "sources": {
+            "server1": {},
+            "server2": {}
+          },
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E2_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E2_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E2_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E2_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E2_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E2_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E2_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E2_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E2_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E2_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English Dubtitle",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E2_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E2_en3.vtt"
+            }
+          }
+        },
+        {
           "episode": 3,
           "episode_key": "E3",
           "sources": {
@@ -177197,8 +179061,94 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E3_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E3_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E3_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E3_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E3_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E3_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E3_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E3_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E3_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E3_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English Dubtitle",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E3_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E3_en3.vtt"
+            }
+          }
         },
         {
           "episode": 4,
@@ -177226,8 +179176,100 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E4_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E4_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E4_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E4_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E4_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E4_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E4_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E4_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E4_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E4_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English Dubtitle",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E4_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E4_en3.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E4_hi.vtt"
+            }
+          }
         },
         {
           "episode": 5,
@@ -177255,8 +179297,100 @@
             },
             "server2": {}
           },
-          "audio": {},
-          "subtitles": {}
+          "audio": {
+            "1080p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E5_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E5_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E5_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "480p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E5_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E5_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E5_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            },
+            "720p": {
+              "tracks": [
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E5_t1_hin.ogg",
+                  "default": true,
+                  "lang": "hi",
+                  "name": "Hindi"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E5_t2_eng.opus",
+                  "default": false,
+                  "lang": "en",
+                  "name": "English"
+                },
+                {
+                  "audio_link": "https://github.com/animeverse-web/Encoder/releases/download/audio-2026-11/the-iceblade-sorcerer-shall-rule-the-world_S2E5_t3_jpn.opus",
+                  "default": false,
+                  "lang": "ja",
+                  "name": "Japanese"
+                }
+              ]
+            }
+          },
+          "subtitles": {
+            "en": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E5_en.vtt"
+            },
+            "en2": {
+              "format": "vtt",
+              "label": "English Dubtitle",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E5_en2.vtt"
+            },
+            "en3": {
+              "format": "vtt",
+              "label": "English",
+              "lang": "en",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E5_en3.vtt"
+            },
+            "hi": {
+              "format": "vtt",
+              "label": "Hindi",
+              "lang": "hi",
+              "url": "https://raw.githubusercontent.com/animeverse-web/Encoder/main/subs/the-iceblade-sorcerer-shall-rule-the-world/S2E5_hi.vtt"
+            }
+          }
         }
       ]
     },
@@ -201216,6 +203350,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795785920150,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 316,
+      "movies": 242,
+      "episodeGroups": 373,
+      "timestamp": "2026-11-27T13:25:20.150Z"
+    },
+    {
       "id": 1795728093267,
       "source": "AnimeVerse",
       "status": "success",
@@ -201378,5 +203521,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-26T21:21:33.267Z"
+  "updated_at": "2026-11-27T13:25:20.150Z"
 }
