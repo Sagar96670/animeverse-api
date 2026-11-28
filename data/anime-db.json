@@ -2727,6 +2727,21 @@
       "category": "latest"
     },
     {
+      "id": "splinter-cell-deathwatch",
+      "title": "Splinter Cell Deathwatch",
+      "slug": "splinter-cell-deathwatch",
+      "poster": "https://image.tmdb.org/t/p/w780/38XJlQAYMcPjgqVhBO8VjkufSEx.jpg",
+      "synopsis": "",
+      "genre": "",
+      "rating": "6.8",
+      "year": null,
+      "episode_count": 0,
+      "subDub": "hindi_dub",
+      "addedAt": 1795840407972,
+      "source": "AnimeVerse",
+      "category": "latest"
+    },
+    {
       "id": "steel-ball-run-jojo-s-bizarre-adventure",
       "title": "Steel Ball Run JoJo's Bizarre Adventure",
       "slug": "steel-ball-run-jojo-s-bizarre-adventure",
@@ -6181,6 +6196,16 @@
       "language": null,
       "rating": "8.6",
       "timestamp": 1790174400179,
+      "source": "AnimeVerse"
+    },
+    {
+      "id": "splinter-cell-deathwatch",
+      "title": "Splinter Cell Deathwatch",
+      "poster": "https://image.tmdb.org/t/p/w780/38XJlQAYMcPjgqVhBO8VjkufSEx.jpg",
+      "category": "latest",
+      "language": "hindi_dub",
+      "rating": "6.8",
+      "timestamp": 1795840407972,
       "source": "AnimeVerse"
     },
     {
@@ -160641,6 +160666,247 @@
       ]
     },
     {
+      "anime_id": "splinter-cell-deathwatch",
+      "anime_title": "Splinter Cell Deathwatch",
+      "anime_slug": "splinter-cell-deathwatch",
+      "season": 1,
+      "season_key": "S1",
+      "episodes": [
+        {
+          "episode": 1,
+          "episode_key": "E1",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26175/splinter-cell-deathwatch-S1-E1-1080p.mp4?code=8415a31290068e5cc168faea",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26175/splinter-cell-deathwatch-S1-E1-1080p.mp4?code=8415a31290068e5cc168faea&dl=1",
+                "server": "Player",
+                "timestamp": 1795840477
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26173/splinter-cell-deathwatch-S1-E1-480p.mp4?code=d131a1e0aa778cc8d2fef8a5",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26173/splinter-cell-deathwatch-S1-E1-480p.mp4?code=d131a1e0aa778cc8d2fef8a5&dl=1",
+                "server": "Player",
+                "timestamp": 1795840477
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26174/splinter-cell-deathwatch-S1-E1-720p.mp4?code=50cf8102a7877b5274ad6ecb",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26174/splinter-cell-deathwatch-S1-E1-720p.mp4?code=50cf8102a7877b5274ad6ecb&dl=1",
+                "server": "Player",
+                "timestamp": 1795840477
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 2,
+          "episode_key": "E2",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26178/splinter-cell-deathwatch-S1-E2-1080p.mp4?code=ce4a8d58c501eb69c1358b46",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26178/splinter-cell-deathwatch-S1-E2-1080p.mp4?code=ce4a8d58c501eb69c1358b46&dl=1",
+                "server": "Player",
+                "timestamp": 1795840663
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26176/splinter-cell-deathwatch-S1-E2-480p.mp4?code=e7561e9469aeb27f4fae0178",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26176/splinter-cell-deathwatch-S1-E2-480p.mp4?code=e7561e9469aeb27f4fae0178&dl=1",
+                "server": "Player",
+                "timestamp": 1795840663
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26177/splinter-cell-deathwatch-S1-E2-720p.mp4?code=860a1d5a6fefd7bf67c5e6c1",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26177/splinter-cell-deathwatch-S1-E2-720p.mp4?code=860a1d5a6fefd7bf67c5e6c1&dl=1",
+                "server": "Player",
+                "timestamp": 1795840663
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 3,
+          "episode_key": "E3",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26181/splinter-cell-deathwatch-S1-E3-1080p.mp4?code=5e42163572102b7bc486cda0",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26181/splinter-cell-deathwatch-S1-E3-1080p.mp4?code=5e42163572102b7bc486cda0&dl=1",
+                "server": "Player",
+                "timestamp": 1795840848
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26179/splinter-cell-deathwatch-S1-E3-480p.mp4?code=85f91f06954adcbbdb5ef995",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26179/splinter-cell-deathwatch-S1-E3-480p.mp4?code=85f91f06954adcbbdb5ef995&dl=1",
+                "server": "Player",
+                "timestamp": 1795840848
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26180/splinter-cell-deathwatch-S1-E3-720p.mp4?code=f90daebfbb12b90c0591ad9b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26180/splinter-cell-deathwatch-S1-E3-720p.mp4?code=f90daebfbb12b90c0591ad9b&dl=1",
+                "server": "Player",
+                "timestamp": 1795840848
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 4,
+          "episode_key": "E4",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26184/splinter-cell-deathwatch-S1-E4-1080p.mp4?code=7f7fffd20eef12df4a96b959",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26184/splinter-cell-deathwatch-S1-E4-1080p.mp4?code=7f7fffd20eef12df4a96b959&dl=1",
+                "server": "Player",
+                "timestamp": 1795841034
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26182/splinter-cell-deathwatch-S1-E4-480p.mp4?code=ba8c6b6bf0606a5464e73d97",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26182/splinter-cell-deathwatch-S1-E4-480p.mp4?code=ba8c6b6bf0606a5464e73d97&dl=1",
+                "server": "Player",
+                "timestamp": 1795841034
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26183/splinter-cell-deathwatch-S1-E4-720p.mp4?code=f9e14442055e7b954effc0cc",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26183/splinter-cell-deathwatch-S1-E4-720p.mp4?code=f9e14442055e7b954effc0cc&dl=1",
+                "server": "Player",
+                "timestamp": 1795841034
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 5,
+          "episode_key": "E5",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26187/splinter-cell-deathwatch-S1-E5-1080p.mp4?code=6ab63a239842df3a1a507904",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26187/splinter-cell-deathwatch-S1-E5-1080p.mp4?code=6ab63a239842df3a1a507904&dl=1",
+                "server": "Player",
+                "timestamp": 1795841220
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26185/splinter-cell-deathwatch-S1-E5-480p.mp4?code=d054a364333573fa49862cad",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26185/splinter-cell-deathwatch-S1-E5-480p.mp4?code=d054a364333573fa49862cad&dl=1",
+                "server": "Player",
+                "timestamp": 1795841220
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26186/splinter-cell-deathwatch-S1-E5-720p.mp4?code=df4737f23835a9a0a5b9c7dd",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26186/splinter-cell-deathwatch-S1-E5-720p.mp4?code=df4737f23835a9a0a5b9c7dd&dl=1",
+                "server": "Player",
+                "timestamp": 1795841220
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 6,
+          "episode_key": "E6",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26190/splinter-cell-deathwatch-S1-E6-1080p.mp4?code=e6bba4197fb2b3c2776a54e6",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26190/splinter-cell-deathwatch-S1-E6-1080p.mp4?code=e6bba4197fb2b3c2776a54e6&dl=1",
+                "server": "Player",
+                "timestamp": 1795841355
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26188/splinter-cell-deathwatch-S1-E6-480p.mp4?code=cd24dca19b7f09025cec97d3",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26188/splinter-cell-deathwatch-S1-E6-480p.mp4?code=cd24dca19b7f09025cec97d3&dl=1",
+                "server": "Player",
+                "timestamp": 1795841354
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26189/splinter-cell-deathwatch-S1-E6-720p.mp4?code=58ef68190389581873e4a01b",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26189/splinter-cell-deathwatch-S1-E6-720p.mp4?code=58ef68190389581873e4a01b&dl=1",
+                "server": "Player",
+                "timestamp": 1795841354
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 7,
+          "episode_key": "E7",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26193/splinter-cell-deathwatch-S1-E7-1080p.mp4?code=4b6bdd73f20bfa354cba3c87",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26193/splinter-cell-deathwatch-S1-E7-1080p.mp4?code=4b6bdd73f20bfa354cba3c87&dl=1",
+                "server": "Player",
+                "timestamp": 1795841524
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26191/splinter-cell-deathwatch-S1-E7-480p.mp4?code=3c6f31ea6abeab2fa9364c33",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26191/splinter-cell-deathwatch-S1-E7-480p.mp4?code=3c6f31ea6abeab2fa9364c33&dl=1",
+                "server": "Player",
+                "timestamp": 1795841523
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26192/splinter-cell-deathwatch-S1-E7-720p.mp4?code=ad3bc87c5c42baa50a3206c7",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26192/splinter-cell-deathwatch-S1-E7-720p.mp4?code=ad3bc87c5c42baa50a3206c7&dl=1",
+                "server": "Player",
+                "timestamp": 1795841524
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        },
+        {
+          "episode": 8,
+          "episode_key": "E8",
+          "sources": {
+            "server1": {
+              "1080p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26196/splinter-cell-deathwatch-S1-E8-1080p.mp4?code=c699e3f87e3f35fcfc0d2818",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26196/splinter-cell-deathwatch-S1-E8-1080p.mp4?code=c699e3f87e3f35fcfc0d2818&dl=1",
+                "server": "Player",
+                "timestamp": 1795841671
+              },
+              "480p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26194/splinter-cell-deathwatch-S1-E8-480p.mp4?code=0bcaf7133f598f139a95550f",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26194/splinter-cell-deathwatch-S1-E8-480p.mp4?code=0bcaf7133f598f139a95550f&dl=1",
+                "server": "Player",
+                "timestamp": 1795841671
+              },
+              "720p": {
+                "url": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26195/splinter-cell-deathwatch-S1-E8-720p.mp4?code=8355c4c9f39420351a4224ca",
+                "download": "https://proud-moon-7329.ayushkum099766.workers.dev/animeverse/dl/26195/splinter-cell-deathwatch-S1-E8-720p.mp4?code=8355c4c9f39420351a4224ca&dl=1",
+                "server": "Player",
+                "timestamp": 1795841671
+              }
+            },
+            "server2": {}
+          },
+          "audio": {},
+          "subtitles": {}
+        }
+      ]
+    },
+    {
       "anime_id": "steel-ball-run-jojo-s-bizarre-adventure",
       "anime_title": "Steel Ball Run JoJo's Bizarre Adventure",
       "anime_slug": "steel-ball-run-jojo-s-bizarre-adventure",
@@ -203446,6 +203712,15 @@
   ],
   "sync_history": [
     {
+      "id": 1795872273254,
+      "source": "AnimeVerse",
+      "status": "success",
+      "anime": 317,
+      "movies": 243,
+      "episodeGroups": 374,
+      "timestamp": "2026-11-28T13:24:33.254Z"
+    },
+    {
       "id": 1795817565329,
       "source": "AnimeVerse",
       "status": "success",
@@ -203626,5 +203901,5 @@
       "timestamp": "2026-11-20T14:44:51.720Z"
     }
   ],
-  "updated_at": "2026-11-27T22:12:45.329Z"
+  "updated_at": "2026-11-28T13:24:33.254Z"
 }
